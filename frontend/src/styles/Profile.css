@@ -1,0 +1,508 @@
+.profile-page {
+  width: 100%;
+}
+
+.profile-header {
+  margin-bottom: 24px;
+}
+
+.profile-header h1 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 6px;
+}
+
+.profile-header p {
+  color: #64748b;
+  font-size: 0.8rem;
+}
+
+.profile-hero-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px;
+  margin-bottom: 24px;
+  background: #ffffff;
+}
+
+.profile-hero-content {
+  display: flex;
+  gap: 28px;
+  align-items: center;
+}
+
+.profile-avatar-wrapper {
+  position: relative;
+}
+
+.profile-hero-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #2563eb;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.avatar-edit-btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 32px;
+  height: 32px;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #64748b;
+  font-size: 0.9rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.name-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.name-row h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.role-badge {
+  background: #eff6ff;
+  color: #3b82f6;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.dept-text {
+  font-size: 0.85rem;
+  color: #1e293b;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.univ-text {
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-bottom: 16px;
+}
+
+.contact-row {
+  display: flex;
+  gap: 24px;
+}
+
+.contact-row span {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  color: #475569;
+}
+
+.contact-row i {
+  color: #94a3b8;
+}
+
+.edit-profile-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 20px;
+  border: 1px solid #3b82f6;
+  border-radius: 8px;
+  background: transparent;
+  color: #3b82f6;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.edit-profile-btn:hover {
+  background: #eff6ff;
+}
+
+.profile-main-grid {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 24px;
+}
+
+.card-head {
+  padding: 20px 24px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.card-head h3 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.card-head-description {
+  margin-top: 6px;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  color: #64748b;
+}
+
+.info-list {
+  padding: 12px 24px;
+}
+
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 13px 0;
+  border-bottom: 1px solid #f8fafc;
+}
+
+.info-item:last-child {
+  border-bottom: none;
+}
+
+.info-label {
+  font-size: 0.8rem;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.info-value {
+  font-size: 0.8rem;
+  color: #1e293b;
+  font-weight: 600;
+}
+
+.profile-side-col {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.settings-list,
+.sessions-list {
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.setting-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.setting-label span {
+  display: block;
+  font-size: 0.75rem;
+  color: #64748b;
+  margin-bottom: 4px;
+}
+
+.setting-label strong {
+  font-size: 0.85rem;
+  color: #1e293b;
+}
+
+.outline-btn {
+  padding: 8px 16px;
+  border: 1px solid #3b82f6;
+  border-radius: 8px;
+  background: transparent;
+  color: #3b82f6;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  white-space: nowrap;
+  transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+}
+
+.outline-btn:hover:not(:disabled) {
+  background: #eff6ff;
+}
+
+.outline-btn:disabled,
+.reset-password-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.password-reset-card .password-reset-body,
+.password-reset-embedded {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.password-reset-card .password-reset-body {
+  padding: 24px;
+}
+
+.password-reset-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.password-reset-row .setting-label {
+  flex: 1;
+  min-width: 0;
+}
+
+.reset-email-label {
+  margin-top: 8px;
+  font-size: 0.75rem;
+  line-height: 1.45;
+  color: #64748b;
+  font-weight: 500;
+}
+
+.reset-email-label strong {
+  color: #1e293b;
+  font-weight: 600;
+  word-break: break-word;
+}
+
+.reset-email-label--missing {
+  color: #ef4444;
+}
+
+.reset-password-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: #ffffff;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.2s;
+}
+
+.reset-password-btn:hover:not(:disabled) {
+  background: #1d4ed8;
+}
+
+.success-banner,
+.error-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+
+.success-banner {
+  color: #047857;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+}
+
+.error-banner {
+  color: #b91c1c;
+  background: #fef2f2;
+  border: 1px solid #fca5a5;
+}
+
+.success-banner i,
+.error-banner i {
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.select-wrapper select {
+  padding: 8px 32px 8px 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  color: #475569;
+  background: #ffffff;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%2394a3b8'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+  background-size: 16px;
+  min-width: 120px;
+}
+
+.session-item {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+  background: #f0fdf4;
+  border-radius: 12px;
+}
+
+.session-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #dcfce7;
+  color: #16a34a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+}
+
+.session-info {
+  flex: 1;
+}
+
+.session-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.session-head strong {
+  font-size: 0.85rem;
+  color: #1e293b;
+}
+
+.active-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #16a34a;
+  text-transform: uppercase;
+}
+
+.session-info p {
+  font-size: 0.75rem;
+  color: #64748b;
+}
+
+.logout-all-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px;
+  border: 1px solid #fee2e2;
+  border-radius: 8px;
+  background: transparent;
+  color: #ef4444;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.logout-all-btn:hover {
+  background: #fef2f2;
+  border-color: #fca5a5;
+}
+
+@media (max-width: 1024px) {
+  .profile-main-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .profile-hero-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 24px;
+  }
+  
+  .contact-row {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 576px) {
+  .profile-hero-card {
+    align-items: center;
+    text-align: center;
+    padding: 24px 16px;
+  }
+
+  .profile-hero-content {
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+  }
+
+  .name-row {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .contact-row {
+    align-items: center;
+    width: 100%;
+  }
+
+  .edit-profile-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .setting-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .password-reset-row {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .setting-label {
+    width: 100%;
+  }
+
+  .outline-btn,
+  .reset-password-btn,
+  .select-wrapper select {
+    width: 100%;
+  }
+
+  .session-item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .session-head {
+    flex-direction: column;
+    gap: 4px;
+  }
+}

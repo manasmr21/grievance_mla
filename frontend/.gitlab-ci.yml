@@ -1,0 +1,28 @@
+stages:
+  - deploy
+
+deploy_frontend:
+  stage: deploy
+
+  tags:
+    - new-grivance
+
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+
+  script:
+    - export NVM_DIR="/home/fornode/.nvm"
+    - source "$NVM_DIR/nvm.sh"
+    - nvm use 22
+
+    - cd /home/fornode/grivance/grievance-frontend
+
+    - git fetch origin
+    - git reset --hard origin/main
+
+    - npm install
+    - npm run build
+
+    - test -f dist/index.html
+
+    - rsync -av --delete --exclude='.htaccess' dist/ /var/www/html/grivance/
