@@ -3,7 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom';
 import ResetPassword from './ForgotPassword/ResetPassword';
 import Success from './ForgotPassword/Success';
 import { userApi } from '../../services/api/api';
-import backgroundImage from '../../assets/images/bg-2.png';
+import AuthBackground from '../../components/auth/AuthBackground';
 import {
   FaShieldAlt,
   FaClock,
@@ -133,14 +133,7 @@ const ResetPasswordPage = () => {
 
   return (
     <main className="relative min-h-screen w-full bg-[#F8FAFC]">
-      <div className="fixed inset-0 z-0">
-        <img
-          src={backgroundImage}
-          alt="University campus walkway"
-          className="h-full w-full object-cover"
-        />
-        <div className="absolute inset-0 bg-[#0F172A]/10 backdrop-blur-[2px]"></div>
-      </div>
+      <AuthBackground />
 
       <div className="relative z-10 grid min-h-screen grid-cols-1 lg:grid-cols-[50%_50%] xl:grid-cols-[55%_45%]">
         <section className="relative hidden h-full flex-col lg:flex">

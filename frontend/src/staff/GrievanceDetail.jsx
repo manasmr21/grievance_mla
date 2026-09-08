@@ -6,6 +6,7 @@ import { useAuth } from '../hooks/useAuth';
 import useAsyncEffect from '../hooks/useAsyncEffect';
 import { useConfirmModal } from '../hooks/useConfirmModal';
 import { getStatusTone, getPriorityTone } from '../utils/grievanceBadges';
+import { resolveAttachmentUrl, isImageAttachment } from '../utils/attachmentUrl';
 import SearchableSelect from '../components/UI/SearchableSelect';
 import '../styles/admin/AdminShared.css';
 
@@ -20,6 +21,7 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
   const [isLoading, setIsLoading] = useState(true);
   const [isUpdating, setIsUpdating] = useState(false);
   const [error, setError] = useState(null);
+  const [actionError, setActionError] = useState(null);
 
   const [statusList, setStatusList] = useState([]);
   const [priorityList, setPriorityList] = useState([]);
@@ -50,6 +52,7 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
       if (isCancelled()) return;
       if (res && res.success && res.data) {
         setGrievance(res.data);
+        setActionError(null);
         setUpdateFormData({
           status_id: res.data.status_id || '',
           priority_id: res.data.priority_id || '',
@@ -121,6 +124,7 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
   const handleUpdateTicket = async (e) => {
     e.preventDefault();
     setIsUpdating(true);
+    setActionError(null);
     try {
       const statusPriorityPayload = {
         status_id: Number(updateFormData.status_id),
@@ -139,10 +143,10 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
         fetchGrievanceDetails();
         alert('Ticket updated successfully!');
       } else {
-        setError(res?.message || 'Failed to update ticket');
+        setActionError(res?.message || 'Failed to update ticket');
       }
     } catch (err) {
-      setError(err.message || 'An error occurred while updating the ticket');
+      setActionError(err.message || 'An error occurred while updating the ticket');
     } finally {
       setIsUpdating(false);
     }
@@ -165,10 +169,13 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
   const userRoleId = Number(activeRole?.id);
   const hasTerminalNodeRole = terminalRoleIds.includes(userRoleId);
   const canForwardMidPath = Boolean(grievance?.path_id && canActOnPath && nextPathNode && !isTerminal);
+  const nextNodeHasAssignees = grievance?.next_node_has_assignees !== false;
+  const midPathForwardBlocked = canForwardMidPath && !nextNodeHasAssignees;
   const canForwardTerminal = Boolean(
     grievance?.path_id && canActOnPath && isTerminal && (isAdmin || hasTerminalNodeRole),
   );
   const showForward = canForwardMidPath || canForwardTerminal;
+  const nextNodeLabel = grievance?.next_node_name || nextPathNode?.name || 'the next stage';
 
   const selectedForwardDepartment = useMemo(
     () => departmentList.find((dept) => String(dept.id) === String(forwardDepartmentId)) || null,
@@ -248,6 +255,7 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
       hideSubtitle: true,
       onConfirm: async () => {
         setIsUpdating(true);
+        setActionError(null);
         try {
           const payload = canForwardTerminal
             ? {
@@ -261,10 +269,10 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
             setForwardEmployeeId('');
             fetchGrievanceDetails();
           } else {
-            setError(res?.message || 'Failed to forward grievance.');
+            setActionError(res?.message || 'Failed to forward grievance.');
           }
         } catch (err) {
-          setError(err.message || 'Error forwarding grievance.');
+          setActionError(err.message || 'Error forwarding grievance.');
         } finally {
           setIsUpdating(false);
         }
@@ -326,6 +334,9 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
     grievance.location_sub_area_name,
     grievance.location_settlement_name,
   ].filter(Boolean).join(', ');
+
+  const attachmentUrl = resolveAttachmentUrl(grievance.image_url);
+  const showAttachmentPreview = isImageAttachment(grievance.image_url);
 
   return (
     <div className="hod-dashboard grievance-detail-page">
@@ -426,14 +437,19 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
                 <h3 className="gd-section-title">
                   <i className="fa-solid fa-paperclip" /> Attachment
                 </h3>
+                {showAttachmentPreview && (
+                  <div className="gd-attachment-preview">
+                    <img src={attachmentUrl} alt="Grievance attachment" />
+                  </div>
+                )}
                 <a
-                  href={grievance.image_url}
+                  href={attachmentUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="gd-attachment-link"
                 >
                   <i className="fa-solid fa-image" />
-                  View Attached File
+                  {showAttachmentPreview ? 'Open in New Tab' : 'View Attached File'}
                   <i className="fa-solid fa-arrow-up-right-from-square" />
                 </a>
               </div>
@@ -446,12 +462,15 @@ const GrievanceDetail = ({ backPath = '/staff/assigned', backLabel = 'Back to My
           setUpdateFormData={setUpdateFormData}
           handleUpdateTicket={handleUpdateTicket}
           isUpdating={isUpdating}
+          actionError={actionError}
           statusList={statusList}
           priorityList={priorityList}
           handleForwardGrievance={handleForwardGrievance}
           showForward={showForward}
           canForwardTerminal={canForwardTerminal}
           canForwardMidPath={canForwardMidPath}
+          midPathForwardBlocked={midPathForwardBlocked}
+          nextNodeLabel={nextNodeLabel}
           nextPathNode={nextPathNode}
           forwardDepartmentId={forwardDepartmentId}
           setForwardDepartmentId={setForwardDepartmentId}
@@ -493,12 +512,15 @@ const SidebarControls = ({
   setUpdateFormData,
   handleUpdateTicket,
   isUpdating,
+  actionError = null,
   statusList,
   priorityList,
   handleForwardGrievance,
   showForward = false,
   canForwardTerminal = false,
   canForwardMidPath = false,
+  midPathForwardBlocked = false,
+  nextNodeLabel = 'the next stage',
   nextPathNode = null,
   forwardDepartmentId = '',
   setForwardDepartmentId,
@@ -634,12 +656,21 @@ const SidebarControls = ({
             {isUpdating ? 'Updating...' : 'Save Changes'}
           </button>
 
+          {actionError && (
+            <p className="gd-action-error" role="alert">{actionError}</p>
+          )}
+
           {showForward && (
             <>
               <div className="gd-divider" />
 
               <p className="gd-quick-label">Assign To</p>
               <div className="gd-quick-actions">
+                {midPathForwardBlocked && (
+                  <p className="gd-forward-warning" role="status">
+                    Cannot forward: no employees are available at the next stage ({nextNodeLabel}).
+                  </p>
+                )}
                 {canForwardTerminal && (
                   <>
                     <div className="gd-field">
@@ -695,7 +726,11 @@ const SidebarControls = ({
                   type="button"
                   className="gd-action-btn forward"
                   onClick={handleForwardGrievance}
-                  disabled={isUpdating || (canForwardTerminal && !forwardEmployeeId)}
+                  disabled={
+                    isUpdating
+                    || midPathForwardBlocked
+                    || (canForwardTerminal && !forwardEmployeeId)
+                  }
                 >
                   <i className="fa-solid fa-share" />
                   {canForwardMidPath
