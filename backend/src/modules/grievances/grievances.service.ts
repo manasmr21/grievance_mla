@@ -581,6 +581,20 @@ export class GrievancesService {
             const pathData = await this.grievancePathService.getPathWithNodes(Number(plain.path_id));
             if (pathData) {
                 plain.path = pathData;
+                const currentSequence = Number(plain.current_node_sequence ?? 0);
+                const nodes = Array.isArray(pathData.nodes) ? pathData.nodes : [];
+                const currentNode = nodes.find((n: any) => Number(n.sequence) === currentSequence);
+                const isTerminal = Boolean(currentNode?.is_terminal);
+                if (!isTerminal) {
+                    const nextNode = nodes.find((n: any) => Number(n.sequence) === currentSequence + 1);
+                    if (nextNode) {
+                        plain.next_node_name = nextNode.name?.trim() || `Stage ${currentSequence + 2}`;
+                        const assigneeIds = await this.grievancePathService.resolveAssigneesForNode(nextNode.id);
+                        plain.next_node_has_assignees = assigneeIds.length > 0;
+                    } else {
+                        plain.next_node_has_assignees = false;
+                    }
+                }
             }
         }
         return plain;
@@ -1390,7 +1404,10 @@ export class GrievancesService {
             const nextNodeName = nextNode.name?.trim() || `Stage ${nextSequence + 1}`;
             const assigneeIds = await this.grievancePathService.resolveAssigneesForNode(nextNode.id);
             if (assigneeIds.length === 0) {
-                throw new HttpException('No assignees available for the next path node', 400);
+                throw new HttpException(
+                    'Cannot forward grievance: no employees are available at the next stage.',
+                    400,
+                );
             }
 
             const limitedAssignees = assigneeIds.slice(0, 5);
