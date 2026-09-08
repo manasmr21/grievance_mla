@@ -1,0 +1,9 @@
+@import '../hod/CommonHOD.css';
+
+.admin-dashboard {
+  width: 100%;
+}
+
+/* Specific Admin Overrides */
+.stat-card.purple .stat-icon { background: #f5f3ff; color: #7c3aed; }
+.stat-card.green .stat-icon { background: #f0fdf4; color: #16a34a; }

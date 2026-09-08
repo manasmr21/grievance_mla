@@ -1,0 +1,6646 @@
+[
+  {
+    "id": "101",
+    "name": "Andaman and Nicobar Islands",
+    "districts": [
+      {
+        "id": "101001",
+        "name": "Nicobar"
+      },
+      {
+        "id": "101002",
+        "name": "North and Middle Andaman"
+      },
+      {
+        "id": "101003",
+        "name": "South Andaman"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Andhra Pradesh",
+    "districts": [
+      {
+        "id": "102001",
+        "name": "Alluri Sitharama Raju"
+      },
+      {
+        "id": "102002",
+        "name": "Anakapalli"
+      },
+      {
+        "id": "102003",
+        "name": "Ananthapuramu"
+      },
+      {
+        "id": "102004",
+        "name": "Annamayya"
+      },
+      {
+        "id": "102005",
+        "name": "Bapatla"
+      },
+      {
+        "id": "102006",
+        "name": "Chittoor"
+      },
+      {
+        "id": "102007",
+        "name": "Dr. B.R. Ambedkar Konaseema"
+      },
+      {
+        "id": "102008",
+        "name": "East Godavari"
+      },
+      {
+        "id": "102009",
+        "name": "Eluru"
+      },
+      {
+        "id": "102010",
+        "name": "Guntur"
+      },
+      {
+        "id": "102011",
+        "name": "Kakinada"
+      },
+      {
+        "id": "102012",
+        "name": "Sri Potti Sriramulu Nellore"
+      },
+      {
+        "id": "102013",
+        "name": "Sri Sathya Sai"
+      },
+      {
+        "id": "102014",
+        "name": "Srikakulam"
+      },
+      {
+        "id": "102015",
+        "name": "Tirupati"
+      },
+      {
+        "id": "102016",
+        "name": "Visakhapatnam"
+      },
+      {
+        "id": "102017",
+        "name": "Vizianagaram"
+      },
+      {
+        "id": "102018",
+        "name": "West Godavari"
+      },
+      {
+        "id": "102019",
+        "name": "YSR Kadapa"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Arunachal Pradesh",
+    "districts": [
+      {
+        "id": "103001",
+        "name": "Anjaw"
+      },
+      {
+        "id": "103002",
+        "name": "Changlang"
+      },
+      {
+        "id": "103003",
+        "name": "Dibang Valley"
+      },
+      {
+        "id": "103004",
+        "name": "East Kameng"
+      },
+      {
+        "id": "103005",
+        "name": "East Siang"
+      },
+      {
+        "id": "103006",
+        "name": "Kamle"
+      },
+      {
+        "id": "103007",
+        "name": "Kra Daadi"
+      },
+      {
+        "id": "103008",
+        "name": "Kurung Kumey"
+      },
+      {
+        "id": "103009",
+        "name": "Lepa Rada"
+      },
+      {
+        "id": "103010",
+        "name": "Lohit"
+      },
+      {
+        "id": "103011",
+        "name": "Longding"
+      },
+      {
+        "id": "103012",
+        "name": "Lower Dibang Valley"
+      },
+      {
+        "id": "103013",
+        "name": "Lower Siang"
+      },
+      {
+        "id": "103014",
+        "name": "Lower Subansiri"
+      },
+      {
+        "id": "103015",
+        "name": "Namsai"
+      },
+      {
+        "id": "103016",
+        "name": "Pakke Kessang"
+      },
+      {
+        "id": "103017",
+        "name": "Papum Pare"
+      },
+      {
+        "id": "103018",
+        "name": "Shi Yomi"
+      },
+      {
+        "id": "103019",
+        "name": "Siang"
+      },
+      {
+        "id": "103020",
+        "name": "Tawang"
+      },
+      {
+        "id": "103021",
+        "name": "Tirap"
+      },
+      {
+        "id": "103022",
+        "name": "Upper Siang"
+      },
+      {
+        "id": "103023",
+        "name": "Upper Subansiri"
+      },
+      {
+        "id": "103024",
+        "name": "West Kameng"
+      },
+      {
+        "id": "103025",
+        "name": "West Siang"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Assam",
+    "districts": [
+      {
+        "id": "104001",
+        "name": "Baksa"
+      },
+      {
+        "id": "104002",
+        "name": "Barpeta"
+      },
+      {
+        "id": "104003",
+        "name": "Biswanath"
+      },
+      {
+        "id": "104004",
+        "name": "Bongaigaon"
+      },
+      {
+        "id": "104005",
+        "name": "Cachar"
+      },
+      {
+        "id": "104006",
+        "name": "Charaideo"
+      },
+      {
+        "id": "104007",
+        "name": "Chirang"
+      },
+      {
+        "id": "104008",
+        "name": "Darrang"
+      },
+      {
+        "id": "104009",
+        "name": "Dhemaji"
+      },
+      {
+        "id": "104010",
+        "name": "Dhubri"
+      },
+      {
+        "id": "104011",
+        "name": "Dibrugarh"
+      },
+      {
+        "id": "104012",
+        "name": "Dima Hasao"
+      },
+      {
+        "id": "104013",
+        "name": "Goalpara"
+      },
+      {
+        "id": "104014",
+        "name": "Golaghat"
+      },
+      {
+        "id": "104015",
+        "name": "Hailakandi"
+      },
+      {
+        "id": "104016",
+        "name": "Hojai"
+      },
+      {
+        "id": "104017",
+        "name": "Jorhat"
+      },
+      {
+        "id": "104018",
+        "name": "Kamrup"
+      },
+      {
+        "id": "104019",
+        "name": "Kamrup Metropolitan"
+      },
+      {
+        "id": "104020",
+        "name": "Karbi Anglong"
+      },
+      {
+        "id": "104021",
+        "name": "Karimganj"
+      },
+      {
+        "id": "104022",
+        "name": "Kokrajhar"
+      },
+      {
+        "id": "104023",
+        "name": "Lakhimpur"
+      },
+      {
+        "id": "104024",
+        "name": "Majuli"
+      },
+      {
+        "id": "104025",
+        "name": "Morigaon"
+      },
+      {
+        "id": "104026",
+        "name": "Nagaon"
+      },
+      {
+        "id": "104027",
+        "name": "Nalbari"
+      },
+      {
+        "id": "104028",
+        "name": "Sivasagar"
+      },
+      {
+        "id": "104029",
+        "name": "Sonitpur"
+      },
+      {
+        "id": "104030",
+        "name": "South Salmara-Mankachar"
+      },
+      {
+        "id": "104031",
+        "name": "Tinsukia"
+      },
+      {
+        "id": "104032",
+        "name": "Udalguri"
+      },
+      {
+        "id": "104033",
+        "name": "West Karbi Anglong"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Bihar",
+    "districts": [
+      {
+        "id": "105001",
+        "name": "Araria"
+      },
+      {
+        "id": "105002",
+        "name": "Arwal"
+      },
+      {
+        "id": "105003",
+        "name": "Aurangabad"
+      },
+      {
+        "id": "105004",
+        "name": "Banka"
+      },
+      {
+        "id": "105005",
+        "name": "Begusarai"
+      },
+      {
+        "id": "105006",
+        "name": "Bhagalpur"
+      },
+      {
+        "id": "105007",
+        "name": "Bhojpur"
+      },
+      {
+        "id": "105008",
+        "name": "Buxar"
+      },
+      {
+        "id": "105009",
+        "name": "Darbhanga"
+      },
+      {
+        "id": "105010",
+        "name": "East Champaran"
+      },
+      {
+        "id": "105011",
+        "name": "Gaya"
+      },
+      {
+        "id": "105012",
+        "name": "Gopalganj"
+      },
+      {
+        "id": "105013",
+        "name": "Jamui"
+      },
+      {
+        "id": "105014",
+        "name": "Jehanabad"
+      },
+      {
+        "id": "105015",
+        "name": "Kaimur"
+      },
+      {
+        "id": "105016",
+        "name": "Katihar"
+      },
+      {
+        "id": "105017",
+        "name": "Khagaria"
+      },
+      {
+        "id": "105018",
+        "name": "Kishanganj"
+      },
+      {
+        "id": "105019",
+        "name": "Lakhisarai"
+      },
+      {
+        "id": "105020",
+        "name": "Madhepura"
+      },
+      {
+        "id": "105021",
+        "name": "Madhubani"
+      },
+      {
+        "id": "105022",
+        "name": "Munger"
+      },
+      {
+        "id": "105023",
+        "name": "Muzaffarpur"
+      },
+      {
+        "id": "105024",
+        "name": "Nalanda"
+      },
+      {
+        "id": "105025",
+        "name": "Nawada"
+      },
+      {
+        "id": "105026",
+        "name": "Patna"
+      },
+      {
+        "id": "105027",
+        "name": "Purnia"
+      },
+      {
+        "id": "105028",
+        "name": "Rohtas"
+      },
+      {
+        "id": "105029",
+        "name": "Saharsa"
+      },
+      {
+        "id": "105030",
+        "name": "Samastipur"
+      },
+      {
+        "id": "105031",
+        "name": "Saran"
+      },
+      {
+        "id": "105032",
+        "name": "Sheikhpura"
+      },
+      {
+        "id": "105033",
+        "name": "Sheohar"
+      },
+      {
+        "id": "105034",
+        "name": "Sitamarhi"
+      },
+      {
+        "id": "105035",
+        "name": "Siwan"
+      },
+      {
+        "id": "105036",
+        "name": "Supaul"
+      },
+      {
+        "id": "105037",
+        "name": "Vaishali"
+      },
+      {
+        "id": "105038",
+        "name": "West Champaran"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Chandigarh",
+    "districts": [
+      {
+        "id": "106001",
+        "name": "Chandigarh"
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Chhattisgarh",
+    "districts": [
+      {
+        "id": "107001",
+        "name": "Balod"
+      },
+      {
+        "id": "107002",
+        "name": "Baloda Bazar"
+      },
+      {
+        "id": "107003",
+        "name": "Balrampur"
+      },
+      {
+        "id": "107004",
+        "name": "Bastar"
+      },
+      {
+        "id": "107005",
+        "name": "Bemetara"
+      },
+      {
+        "id": "107006",
+        "name": "Bijapur"
+      },
+      {
+        "id": "107007",
+        "name": "Bilaspur"
+      },
+      {
+        "id": "107008",
+        "name": "Dantewada"
+      },
+      {
+        "id": "107009",
+        "name": "Dhamtari"
+      },
+      {
+        "id": "107010",
+        "name": "Durg"
+      },
+      {
+        "id": "107011",
+        "name": "Gariaband"
+      },
+      {
+        "id": "107012",
+        "name": "Gaurela Pendra Marwahi"
+      },
+      {
+        "id": "107013",
+        "name": "Janjgir-Champa"
+      },
+      {
+        "id": "107014",
+        "name": "Jashpur"
+      },
+      {
+        "id": "107015",
+        "name": "Kanker"
+      },
+      {
+        "id": "107016",
+        "name": "Kawardha"
+      },
+      {
+        "id": "107017",
+        "name": "Khairagarh-Chhuikhadan-Gandai"
+      },
+      {
+        "id": "107018",
+        "name": "Kondagaon"
+      },
+      {
+        "id": "107019",
+        "name": "Korba"
+      },
+      {
+        "id": "107020",
+        "name": "Koriya"
+      },
+      {
+        "id": "107021",
+        "name": "Mahasamund"
+      },
+      {
+        "id": "107022",
+        "name": "Manendragarh-Chirmiri-Bharatpur"
+      },
+      {
+        "id": "107023",
+        "name": "Mohla-Manpur-Ambagarh Chowki"
+      },
+      {
+        "id": "107024",
+        "name": "Mungeli"
+      },
+      {
+        "id": "107025",
+        "name": "Narayanpur"
+      },
+      {
+        "id": "107026",
+        "name": "Raigarh"
+      },
+      {
+        "id": "107027",
+        "name": "Raipur"
+      },
+      {
+        "id": "107028",
+        "name": "Rajnandgaon"
+      },
+      {
+        "id": "107029",
+        "name": "Sakti"
+      },
+      {
+        "id": "107030",
+        "name": "Sarangarh-Bilaigarh"
+      },
+      {
+        "id": "107031",
+        "name": "Sukma"
+      },
+      {
+        "id": "107032",
+        "name": "Surajpur"
+      },
+      {
+        "id": "107033",
+        "name": "Surguja"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "districts": [
+      {
+        "id": "108001",
+        "name": "Dadra and Nagar Haveli"
+      },
+      {
+        "id": "108002",
+        "name": "Daman"
+      },
+      {
+        "id": "108003",
+        "name": "Diu"
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Delhi",
+    "districts": [
+      {
+        "id": "109001",
+        "name": "Central Delhi"
+      },
+      {
+        "id": "109002",
+        "name": "East Delhi"
+      },
+      {
+        "id": "109003",
+        "name": "New Delhi"
+      },
+      {
+        "id": "109004",
+        "name": "North Delhi"
+      },
+      {
+        "id": "109005",
+        "name": "North East Delhi"
+      },
+      {
+        "id": "109006",
+        "name": "North West Delhi"
+      },
+      {
+        "id": "109007",
+        "name": "Shahdara"
+      },
+      {
+        "id": "109008",
+        "name": "South Delhi"
+      },
+      {
+        "id": "109009",
+        "name": "South East Delhi"
+      },
+      {
+        "id": "109010",
+        "name": "South West Delhi"
+      },
+      {
+        "id": "109011",
+        "name": "West Delhi"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Goa",
+    "districts": [
+      {
+        "id": "110001",
+        "name": "North Goa"
+      },
+      {
+        "id": "110002",
+        "name": "South Goa"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Gujarat",
+    "districts": [
+      {
+        "id": "111001",
+        "name": "Ahmedabad"
+      },
+      {
+        "id": "111002",
+        "name": "Amreli"
+      },
+      {
+        "id": "111003",
+        "name": "Anand"
+      },
+      {
+        "id": "111004",
+        "name": "Aravalli"
+      },
+      {
+        "id": "111005",
+        "name": "Banaskantha"
+      },
+      {
+        "id": "111006",
+        "name": "Bharuch"
+      },
+      {
+        "id": "111007",
+        "name": "Bhavnagar"
+      },
+      {
+        "id": "111008",
+        "name": "Botad"
+      },
+      {
+        "id": "111009",
+        "name": "Chhota Udaipur"
+      },
+      {
+        "id": "111010",
+        "name": "Dahod"
+      },
+      {
+        "id": "111011",
+        "name": "Dang"
+      },
+      {
+        "id": "111012",
+        "name": "Devbhoomi Dwarka"
+      },
+      {
+        "id": "111013",
+        "name": "Gandhinagar"
+      },
+      {
+        "id": "111014",
+        "name": "Gir Somnath"
+      },
+      {
+        "id": "111015",
+        "name": "Jamnagar"
+      },
+      {
+        "id": "111016",
+        "name": "Junagadh"
+      },
+      {
+        "id": "111017",
+        "name": "Kheda"
+      },
+      {
+        "id": "111018",
+        "name": "Kutch"
+      },
+      {
+        "id": "111019",
+        "name": "Mahisagar"
+      },
+      {
+        "id": "111020",
+        "name": "Mehsana"
+      },
+      {
+        "id": "111021",
+        "name": "Morbi"
+      },
+      {
+        "id": "111022",
+        "name": "Narmada"
+      },
+      {
+        "id": "111023",
+        "name": "Navsari"
+      },
+      {
+        "id": "111024",
+        "name": "Panchmahal"
+      },
+      {
+        "id": "111025",
+        "name": "Patan"
+      },
+      {
+        "id": "111026",
+        "name": "Porbandar"
+      },
+      {
+        "id": "111027",
+        "name": "Rajkot"
+      },
+      {
+        "id": "111028",
+        "name": "Sabarkantha"
+      },
+      {
+        "id": "111029",
+        "name": "Surat"
+      },
+      {
+        "id": "111030",
+        "name": "Surendranagar"
+      },
+      {
+        "id": "111031",
+        "name": "Tapi"
+      },
+      {
+        "id": "111032",
+        "name": "Vadodara"
+      },
+      {
+        "id": "111033",
+        "name": "Valsad"
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Haryana",
+    "districts": [
+      {
+        "id": "112001",
+        "name": "Ambala"
+      },
+      {
+        "id": "112002",
+        "name": "Bhiwani"
+      },
+      {
+        "id": "112003",
+        "name": "Charkhi Dadri"
+      },
+      {
+        "id": "112004",
+        "name": "Faridabad"
+      },
+      {
+        "id": "112005",
+        "name": "Fatehabad"
+      },
+      {
+        "id": "112006",
+        "name": "Gurugram"
+      },
+      {
+        "id": "112007",
+        "name": "Hisar"
+      },
+      {
+        "id": "112008",
+        "name": "Jhajjar"
+      },
+      {
+        "id": "112009",
+        "name": "Jind"
+      },
+      {
+        "id": "112010",
+        "name": "Kaithal"
+      },
+      {
+        "id": "112011",
+        "name": "Karnal"
+      },
+      {
+        "id": "112012",
+        "name": "Kurukshetra"
+      },
+      {
+        "id": "112013",
+        "name": "Mahendragarh"
+      },
+      {
+        "id": "112014",
+        "name": "Nuh"
+      },
+      {
+        "id": "112015",
+        "name": "Palwal"
+      },
+      {
+        "id": "112016",
+        "name": "Panchkula"
+      },
+      {
+        "id": "112017",
+        "name": "Panipat"
+      },
+      {
+        "id": "112018",
+        "name": "Rewari"
+      },
+      {
+        "id": "112019",
+        "name": "Rohtak"
+      },
+      {
+        "id": "112020",
+        "name": "Sirsa"
+      },
+      {
+        "id": "112021",
+        "name": "Sonipat"
+      },
+      {
+        "id": "112022",
+        "name": "Yamunanagar"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Himachal Pradesh",
+    "districts": [
+      {
+        "id": "113001",
+        "name": "Bilaspur"
+      },
+      {
+        "id": "113002",
+        "name": "Chamba"
+      },
+      {
+        "id": "113003",
+        "name": "Hamirpur"
+      },
+      {
+        "id": "113004",
+        "name": "Kangra"
+      },
+      {
+        "id": "113005",
+        "name": "Kinnaur"
+      },
+      {
+        "id": "113006",
+        "name": "Kullu"
+      },
+      {
+        "id": "113007",
+        "name": "Lahaul and Spiti"
+      },
+      {
+        "id": "113008",
+        "name": "Mandi"
+      },
+      {
+        "id": "113009",
+        "name": "Shimla"
+      },
+      {
+        "id": "113010",
+        "name": "Sirmaur"
+      },
+      {
+        "id": "113011",
+        "name": "Solan"
+      },
+      {
+        "id": "113012",
+        "name": "Una"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Jammu and Kashmir",
+    "districts": [
+      {
+        "id": "114001",
+        "name": "Anantnag"
+      },
+      {
+        "id": "114002",
+        "name": "Bandipora"
+      },
+      {
+        "id": "114003",
+        "name": "Baramulla"
+      },
+      {
+        "id": "114004",
+        "name": "Budgam"
+      },
+      {
+        "id": "114005",
+        "name": "Doda"
+      },
+      {
+        "id": "114006",
+        "name": "Ganderbal"
+      },
+      {
+        "id": "114007",
+        "name": "Jammu"
+      },
+      {
+        "id": "114008",
+        "name": "Kathua"
+      },
+      {
+        "id": "114009",
+        "name": "Kishtwar"
+      },
+      {
+        "id": "114010",
+        "name": "Kulgam"
+      },
+      {
+        "id": "114011",
+        "name": "Kupwara"
+      },
+      {
+        "id": "114012",
+        "name": "Poonch"
+      },
+      {
+        "id": "114013",
+        "name": "Pulwama"
+      },
+      {
+        "id": "114014",
+        "name": "Rajouri"
+      },
+      {
+        "id": "114015",
+        "name": "Ramban"
+      },
+      {
+        "id": "114016",
+        "name": "Reasi"
+      },
+      {
+        "id": "114017",
+        "name": "Samba"
+      },
+      {
+        "id": "114018",
+        "name": "Shopian"
+      },
+      {
+        "id": "114019",
+        "name": "Srinagar"
+      },
+      {
+        "id": "114020",
+        "name": "Udhampur"
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Jharkhand",
+    "districts": [
+      {
+        "id": "115001",
+        "name": "Bokaro"
+      },
+      {
+        "id": "115002",
+        "name": "Chatra"
+      },
+      {
+        "id": "115003",
+        "name": "Deoghar"
+      },
+      {
+        "id": "115004",
+        "name": "Dhanbad"
+      },
+      {
+        "id": "115005",
+        "name": "Dumka"
+      },
+      {
+        "id": "115006",
+        "name": "East Singhbhum"
+      },
+      {
+        "id": "115007",
+        "name": "Garhwa"
+      },
+      {
+        "id": "115008",
+        "name": "Giridih"
+      },
+      {
+        "id": "115009",
+        "name": "Godda"
+      },
+      {
+        "id": "115010",
+        "name": "Gumla"
+      },
+      {
+        "id": "115011",
+        "name": "Hazaribagh"
+      },
+      {
+        "id": "115012",
+        "name": "Jamtara"
+      },
+      {
+        "id": "115013",
+        "name": "Khunti"
+      },
+      {
+        "id": "115014",
+        "name": "Koderma"
+      },
+      {
+        "id": "115015",
+        "name": "Latehar"
+      },
+      {
+        "id": "115016",
+        "name": "Lohardaga"
+      },
+      {
+        "id": "115017",
+        "name": "Pakur"
+      },
+      {
+        "id": "115018",
+        "name": "Palamu"
+      },
+      {
+        "id": "115019",
+        "name": "Ramgarh"
+      },
+      {
+        "id": "115020",
+        "name": "Ranchi"
+      },
+      {
+        "id": "115021",
+        "name": "Sahebganj"
+      },
+      {
+        "id": "115022",
+        "name": "Seraikela Kharsawan"
+      },
+      {
+        "id": "115023",
+        "name": "Simdega"
+      },
+      {
+        "id": "115024",
+        "name": "West Singhbhum"
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Karnataka",
+    "districts": [
+      {
+        "id": "116001",
+        "name": "Bagalkot"
+      },
+      {
+        "id": "116002",
+        "name": "Ballari"
+      },
+      {
+        "id": "116003",
+        "name": "Belagavi"
+      },
+      {
+        "id": "116004",
+        "name": "Bengaluru Rural"
+      },
+      {
+        "id": "116005",
+        "name": "Bengaluru Urban"
+      },
+      {
+        "id": "116006",
+        "name": "Bidar"
+      },
+      {
+        "id": "116007",
+        "name": "Chamarajanagar"
+      },
+      {
+        "id": "116008",
+        "name": "Chikkaballapura"
+      },
+      {
+        "id": "116009",
+        "name": "Chikkamagaluru"
+      },
+      {
+        "id": "116010",
+        "name": "Chitradurga"
+      },
+      {
+        "id": "116011",
+        "name": "Dakshina Kannada"
+      },
+      {
+        "id": "116012",
+        "name": "Davanagere"
+      },
+      {
+        "id": "116013",
+        "name": "Dharwad"
+      },
+      {
+        "id": "116014",
+        "name": "Gadag"
+      },
+      {
+        "id": "116015",
+        "name": "Hassan"
+      },
+      {
+        "id": "116016",
+        "name": "Haveri"
+      },
+      {
+        "id": "116017",
+        "name": "Kalaburagi"
+      },
+      {
+        "id": "116018",
+        "name": "Kodagu"
+      },
+      {
+        "id": "116019",
+        "name": "Kolar"
+      },
+      {
+        "id": "116020",
+        "name": "Koppal"
+      },
+      {
+        "id": "116021",
+        "name": "Mandya"
+      },
+      {
+        "id": "116022",
+        "name": "Mysuru"
+      },
+      {
+        "id": "116023",
+        "name": "Raichur"
+      },
+      {
+        "id": "116024",
+        "name": "Ramanagara"
+      },
+      {
+        "id": "116025",
+        "name": "Shivamogga"
+      },
+      {
+        "id": "116026",
+        "name": "Tumakuru"
+      },
+      {
+        "id": "116027",
+        "name": "Udupi"
+      },
+      {
+        "id": "116028",
+        "name": "Uttara Kannada"
+      },
+      {
+        "id": "116029",
+        "name": "Vijayapura"
+      },
+      {
+        "id": "116030",
+        "name": "Yadgir"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Kerala",
+    "districts": [
+      {
+        "id": "117001",
+        "name": "Alappuzha"
+      },
+      {
+        "id": "117002",
+        "name": "Ernakulam"
+      },
+      {
+        "id": "117003",
+        "name": "Idukki"
+      },
+      {
+        "id": "117004",
+        "name": "Kannur"
+      },
+      {
+        "id": "117005",
+        "name": "Kasaragod"
+      },
+      {
+        "id": "117006",
+        "name": "Kollam"
+      },
+      {
+        "id": "117007",
+        "name": "Kottayam"
+      },
+      {
+        "id": "117008",
+        "name": "Kozhikode"
+      },
+      {
+        "id": "117009",
+        "name": "Malappuram"
+      },
+      {
+        "id": "117010",
+        "name": "Palakkad"
+      },
+      {
+        "id": "117011",
+        "name": "Pathanamthitta"
+      },
+      {
+        "id": "117012",
+        "name": "Thiruvananthapuram"
+      },
+      {
+        "id": "117013",
+        "name": "Thrissur"
+      },
+      {
+        "id": "117014",
+        "name": "Wayanad"
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Ladakh",
+    "districts": [
+      {
+        "id": "118001",
+        "name": "Kargil"
+      },
+      {
+        "id": "118002",
+        "name": "Leh"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Lakshadweep",
+    "districts": [
+      {
+        "id": "119001",
+        "name": "Lakshadweep"
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Madhya Pradesh",
+    "districts": [
+      {
+        "id": "120001",
+        "name": "Agar Malwa"
+      },
+      {
+        "id": "120002",
+        "name": "Alirajpur"
+      },
+      {
+        "id": "120003",
+        "name": "Anuppur"
+      },
+      {
+        "id": "120004",
+        "name": "Ashoknagar"
+      },
+      {
+        "id": "120005",
+        "name": "Balaghat"
+      },
+      {
+        "id": "120006",
+        "name": "Barwani"
+      },
+      {
+        "id": "120007",
+        "name": "Betul"
+      },
+      {
+        "id": "120008",
+        "name": "Bhind"
+      },
+      {
+        "id": "120009",
+        "name": "Bhopal"
+      },
+      {
+        "id": "120010",
+        "name": "Burhanpur"
+      },
+      {
+        "id": "120011",
+        "name": "Chhatarpur"
+      },
+      {
+        "id": "120012",
+        "name": "Chhindwara"
+      },
+      {
+        "id": "120013",
+        "name": "Damoh"
+      },
+      {
+        "id": "120014",
+        "name": "Datia"
+      },
+      {
+        "id": "120015",
+        "name": "Dewas"
+      },
+      {
+        "id": "120016",
+        "name": "Dhar"
+      },
+      {
+        "id": "120017",
+        "name": "Dindori"
+      },
+      {
+        "id": "120018",
+        "name": "Guna"
+      },
+      {
+        "id": "120019",
+        "name": "Gwalior"
+      },
+      {
+        "id": "120020",
+        "name": "Harda"
+      },
+      {
+        "id": "120021",
+        "name": "Hoshangabad"
+      },
+      {
+        "id": "120022",
+        "name": "Indore"
+      },
+      {
+        "id": "120023",
+        "name": "Jabalpur"
+      },
+      {
+        "id": "120024",
+        "name": "Jhabua"
+      },
+      {
+        "id": "120025",
+        "name": "Katni"
+      },
+      {
+        "id": "120026",
+        "name": "Khandwa"
+      },
+      {
+        "id": "120027",
+        "name": "Khargone"
+      },
+      {
+        "id": "120028",
+        "name": "Mandla"
+      },
+      {
+        "id": "120029",
+        "name": "Mandsaur"
+      },
+      {
+        "id": "120030",
+        "name": "Morena"
+      },
+      {
+        "id": "120031",
+        "name": "Narsinghpur"
+      },
+      {
+        "id": "120032",
+        "name": "Neemuch"
+      },
+      {
+        "id": "120033",
+        "name": "Panna"
+      },
+      {
+        "id": "120034",
+        "name": "Raisen"
+      },
+      {
+        "id": "120035",
+        "name": "Rajgarh"
+      },
+      {
+        "id": "120036",
+        "name": "Ratlam"
+      },
+      {
+        "id": "120037",
+        "name": "Rewa"
+      },
+      {
+        "id": "120038",
+        "name": "Sagar"
+      },
+      {
+        "id": "120039",
+        "name": "Satna"
+      },
+      {
+        "id": "120040",
+        "name": "Sehore"
+      },
+      {
+        "id": "120041",
+        "name": "Seoni"
+      },
+      {
+        "id": "120042",
+        "name": "Shahdol"
+      },
+      {
+        "id": "120043",
+        "name": "Shajapur"
+      },
+      {
+        "id": "120044",
+        "name": "Sheopur"
+      },
+      {
+        "id": "120045",
+        "name": "Shivpuri"
+      },
+      {
+        "id": "120046",
+        "name": "Sidhi"
+      },
+      {
+        "id": "120047",
+        "name": "Singrauli"
+      },
+      {
+        "id": "120048",
+        "name": "Tikamgarh"
+      },
+      {
+        "id": "120049",
+        "name": "Ujjain"
+      },
+      {
+        "id": "120050",
+        "name": "Umaria"
+      },
+      {
+        "id": "120051",
+        "name": "Vidisha"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Maharashtra",
+    "districts": [
+      {
+        "id": "121001",
+        "name": "Ahmednagar"
+      },
+      {
+        "id": "121002",
+        "name": "Akola"
+      },
+      {
+        "id": "121003",
+        "name": "Amravati"
+      },
+      {
+        "id": "121004",
+        "name": "Beed"
+      },
+      {
+        "id": "121005",
+        "name": "Bhandara"
+      },
+      {
+        "id": "121006",
+        "name": "Buldhana"
+      },
+      {
+        "id": "121007",
+        "name": "Chandrapur"
+      },
+      {
+        "id": "121008",
+        "name": "Dhule"
+      },
+      {
+        "id": "121009",
+        "name": "Gadchiroli"
+      },
+      {
+        "id": "121010",
+        "name": "Gondia"
+      },
+      {
+        "id": "121011",
+        "name": "Hingoli"
+      },
+      {
+        "id": "121012",
+        "name": "Jalgaon"
+      },
+      {
+        "id": "121013",
+        "name": "Jalna"
+      },
+      {
+        "id": "121014",
+        "name": "Kolhapur"
+      },
+      {
+        "id": "121015",
+        "name": "Latur"
+      },
+      {
+        "id": "121016",
+        "name": "Mumbai City"
+      },
+      {
+        "id": "121017",
+        "name": "Mumbai Suburban"
+      },
+      {
+        "id": "121018",
+        "name": "Nagpur"
+      },
+      {
+        "id": "121019",
+        "name": "Nanded"
+      },
+      {
+        "id": "121020",
+        "name": "Nandurbar"
+      },
+      {
+        "id": "121021",
+        "name": "Nashik"
+      },
+      {
+        "id": "121022",
+        "name": "Osmanabad"
+      },
+      {
+        "id": "121023",
+        "name": "Palghar"
+      },
+      {
+        "id": "121024",
+        "name": "Parbhani"
+      },
+      {
+        "id": "121025",
+        "name": "Pune"
+      },
+      {
+        "id": "121026",
+        "name": "Raigad"
+      },
+      {
+        "id": "121027",
+        "name": "Ratnagiri"
+      },
+      {
+        "id": "121028",
+        "name": "Sangli"
+      },
+      {
+        "id": "121029",
+        "name": "Satara"
+      },
+      {
+        "id": "121030",
+        "name": "Sindhudurg"
+      },
+      {
+        "id": "121031",
+        "name": "Solapur"
+      },
+      {
+        "id": "121032",
+        "name": "Thane"
+      },
+      {
+        "id": "121033",
+        "name": "Wardha"
+      },
+      {
+        "id": "121034",
+        "name": "Washim"
+      },
+      {
+        "id": "121035",
+        "name": "Yavatmal"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Manipur",
+    "districts": [
+      {
+        "id": "122001",
+        "name": "Bishnupur"
+      },
+      {
+        "id": "122002",
+        "name": "Chandel"
+      },
+      {
+        "id": "122003",
+        "name": "Churachandpur"
+      },
+      {
+        "id": "122004",
+        "name": "Imphal East"
+      },
+      {
+        "id": "122005",
+        "name": "Imphal West"
+      },
+      {
+        "id": "122006",
+        "name": "Jiribam"
+      },
+      {
+        "id": "122007",
+        "name": "Kakching"
+      },
+      {
+        "id": "122008",
+        "name": "Kamjong"
+      },
+      {
+        "id": "122009",
+        "name": "Kangpokpi"
+      },
+      {
+        "id": "122010",
+        "name": "Noney"
+      },
+      {
+        "id": "122011",
+        "name": "Pherzawl"
+      },
+      {
+        "id": "122012",
+        "name": "Senapati"
+      },
+      {
+        "id": "122013",
+        "name": "Tamenglong"
+      },
+      {
+        "id": "122014",
+        "name": "Tengnoupal"
+      },
+      {
+        "id": "122015",
+        "name": "Thoubal"
+      },
+      {
+        "id": "122016",
+        "name": "Ukhrul"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Meghalaya",
+    "districts": [
+      {
+        "id": "123001",
+        "name": "East Garo Hills"
+      },
+      {
+        "id": "123002",
+        "name": "East Jaintia Hills"
+      },
+      {
+        "id": "123003",
+        "name": "East Khasi Hills"
+      },
+      {
+        "id": "123004",
+        "name": "North Garo Hills"
+      },
+      {
+        "id": "123005",
+        "name": "Ri Bhoi"
+      },
+      {
+        "id": "123006",
+        "name": "South Garo Hills"
+      },
+      {
+        "id": "123007",
+        "name": "South West Garo Hills"
+      },
+      {
+        "id": "123008",
+        "name": "South West Khasi Hills"
+      },
+      {
+        "id": "123009",
+        "name": "West Garo Hills"
+      },
+      {
+        "id": "123010",
+        "name": "West Jaintia Hills"
+      },
+      {
+        "id": "123011",
+        "name": "West Khasi Hills"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Mizoram",
+    "districts": [
+      {
+        "id": "124001",
+        "name": "Aizawl"
+      },
+      {
+        "id": "124002",
+        "name": "Champhai"
+      },
+      {
+        "id": "124003",
+        "name": "Hnahthial"
+      },
+      {
+        "id": "124004",
+        "name": "Khawzawl"
+      },
+      {
+        "id": "124005",
+        "name": "Kolasib"
+      },
+      {
+        "id": "124006",
+        "name": "Lawngtlai"
+      },
+      {
+        "id": "124007",
+        "name": "Lunglei"
+      },
+      {
+        "id": "124008",
+        "name": "Mamit"
+      },
+      {
+        "id": "124009",
+        "name": "Saiha"
+      },
+      {
+        "id": "124010",
+        "name": "Saitual"
+      },
+      {
+        "id": "124011",
+        "name": "Serchhip"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Nagaland",
+    "districts": [
+      {
+        "id": "125001",
+        "name": "Chumoukedima"
+      },
+      {
+        "id": "125002",
+        "name": "Dimapur"
+      },
+      {
+        "id": "125003",
+        "name": "Kiphire"
+      },
+      {
+        "id": "125004",
+        "name": "Kohima"
+      },
+      {
+        "id": "125005",
+        "name": "Longleng"
+      },
+      {
+        "id": "125006",
+        "name": "Mokokchung"
+      },
+      {
+        "id": "125007",
+        "name": "Mon"
+      },
+      {
+        "id": "125008",
+        "name": "Noklak"
+      },
+      {
+        "id": "125009",
+        "name": "Peren"
+      },
+      {
+        "id": "125010",
+        "name": "Phek"
+      },
+      {
+        "id": "125011",
+        "name": "Shamator"
+      },
+      {
+        "id": "125012",
+        "name": "Tseminyu"
+      },
+      {
+        "id": "125013",
+        "name": "Mon"
+      },
+      {
+        "id": "125014",
+        "name": "Tuensang"
+      },
+      {
+        "id": "125015",
+        "name": "Wokha"
+      },
+      {
+        "id": "125016",
+        "name": "Zunheboto"
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Odisha",
+    "districts": [
+      {
+        "id": "126001",
+        "name": "Angul",
+        "blocks": [
+          {
+            "id": "126001001",
+            "name": "Angul",
+            "villages": [
+              {
+                "id": "126001001001",
+                "name": "Angul Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001002",
+            "name": "Athamalik",
+            "villages": [
+              {
+                "id": "126001002001",
+                "name": "Athamalik Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001003",
+            "name": "Banarpal",
+            "villages": [
+              {
+                "id": "126001003001",
+                "name": "Banarpal Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001004",
+            "name": "Chhendipada",
+            "villages": [
+              {
+                "id": "126001004001",
+                "name": "Chhendipada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001005",
+            "name": "Kaniha",
+            "villages": [
+              {
+                "id": "126001005001",
+                "name": "Kaniha Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001006",
+            "name": "Kishorenagar",
+            "villages": [
+              {
+                "id": "126001006001",
+                "name": "Kishorenagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001007",
+            "name": "Pallahara",
+            "villages": [
+              {
+                "id": "126001007001",
+                "name": "Pallahara Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126001008",
+            "name": "Talcher",
+            "villages": [
+              {
+                "id": "126001008001",
+                "name": "Talcher Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260011000",
+            "name": "Anugola"
+          },
+          {
+            "id": "1260011001",
+            "name": "Talacher"
+          }
+        ]
+      },
+      {
+        "id": "126002",
+        "name": "Balangir",
+        "blocks": [
+          {
+            "id": "126002001",
+            "name": "Balangir",
+            "villages": [
+              {
+                "id": "126002001001",
+                "name": "Balangir Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002002",
+            "name": "Bangomunda",
+            "villages": [
+              {
+                "id": "126002002001",
+                "name": "Bangomunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002003",
+            "name": "Belpada",
+            "villages": [
+              {
+                "id": "126002003001",
+                "name": "Belpada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002004",
+            "name": "Deogaon",
+            "villages": [
+              {
+                "id": "126002004001",
+                "name": "Deogaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002005",
+            "name": "Gudvella",
+            "villages": [
+              {
+                "id": "126002005001",
+                "name": "Gudvella Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002006",
+            "name": "Khaprakhol",
+            "villages": [
+              {
+                "id": "126002006001",
+                "name": "Khaprakhol Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002007",
+            "name": "Loisingha",
+            "villages": [
+              {
+                "id": "126002007001",
+                "name": "Loisingha Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002008",
+            "name": "Muribahal",
+            "villages": [
+              {
+                "id": "126002008001",
+                "name": "Muribahal Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002009",
+            "name": "Patnagad",
+            "villages": [
+              {
+                "id": "126002009001",
+                "name": "Patnagad Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002010",
+            "name": "Puintala",
+            "villages": [
+              {
+                "id": "126002010001",
+                "name": "Puintala Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002011",
+            "name": "Saintala",
+            "villages": [
+              {
+                "id": "126002011001",
+                "name": "Saintala Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002012",
+            "name": "Titilagarh",
+            "villages": [
+              {
+                "id": "126002012001",
+                "name": "Titilagarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126002013",
+            "name": "Turekela",
+            "villages": [
+              {
+                "id": "126002013001",
+                "name": "Turekela Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260021000",
+            "name": "Balangir"
+          },
+          {
+            "id": "1260021001",
+            "name": "Titilagarh"
+          }
+        ]
+      },
+      {
+        "id": "126003",
+        "name": "Balasore",
+        "blocks": [
+          {
+            "id": "126003001",
+            "name": "Bahanaga",
+            "villages": [
+              {
+                "id": "126003001001",
+                "name": "Bahanaga Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003002",
+            "name": "Balasore Sadar",
+            "villages": [
+              {
+                "id": "126003002001",
+                "name": "Balasore Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003003",
+            "name": "Baliapal",
+            "villages": [
+              {
+                "id": "126003003001",
+                "name": "Baliapal Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003004",
+            "name": "Basta",
+            "villages": [
+              {
+                "id": "126003004001",
+                "name": "Basta Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003005",
+            "name": "Bhogarai",
+            "villages": [
+              {
+                "id": "126003005001",
+                "name": "Bhogarai Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003006",
+            "name": "Jaleswar",
+            "villages": [
+              {
+                "id": "126003006001",
+                "name": "Jaleswar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003007",
+            "name": "Khaira",
+            "villages": [
+              {
+                "id": "126003007001",
+                "name": "Khaira Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003008",
+            "name": "Nilagiri",
+            "villages": [
+              {
+                "id": "126003008001",
+                "name": "Nilagiri Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003009",
+            "name": "Oupada",
+            "villages": [
+              {
+                "id": "126003009001",
+                "name": "Oupada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003010",
+            "name": "Remuna",
+            "villages": [
+              {
+                "id": "126003010001",
+                "name": "Remuna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003011",
+            "name": "Simulia",
+            "villages": [
+              {
+                "id": "126003011001",
+                "name": "Simulia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126003012",
+            "name": "Soro",
+            "villages": [
+              {
+                "id": "126003012001",
+                "name": "Soro Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260031000",
+            "name": "Baleshwar"
+          },
+          {
+            "id": "1260031001",
+            "name": "Jaleswar"
+          },
+          {
+            "id": "1260031002",
+            "name": "Sora"
+          }
+        ]
+      },
+      {
+        "id": "126004",
+        "name": "Bargarh",
+        "blocks": [
+          {
+            "id": "126004001",
+            "name": "Ambabhona",
+            "villages": [
+              {
+                "id": "126004001001",
+                "name": "Ambabhona Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004002",
+            "name": "Attabira",
+            "villages": [
+              {
+                "id": "126004002001",
+                "name": "Attabira Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004003",
+            "name": "Bargarh",
+            "villages": [
+              {
+                "id": "126004003001",
+                "name": "Bargarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004004",
+            "name": "Barpali",
+            "villages": [
+              {
+                "id": "126004004001",
+                "name": "Barpali Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004005",
+            "name": "Bhatli",
+            "villages": [
+              {
+                "id": "126004005001",
+                "name": "Bhatli Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004006",
+            "name": "Bheden",
+            "villages": [
+              {
+                "id": "126004006001",
+                "name": "Bheden Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004007",
+            "name": "Bijepur",
+            "villages": [
+              {
+                "id": "126004007001",
+                "name": "Bijepur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004008",
+            "name": "Gaisilet",
+            "villages": [
+              {
+                "id": "126004008001",
+                "name": "Gaisilet Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004009",
+            "name": "Jharbandh",
+            "villages": [
+              {
+                "id": "126004009001",
+                "name": "Jharbandh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004010",
+            "name": "Paikamal",
+            "villages": [
+              {
+                "id": "126004010001",
+                "name": "Paikamal Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004011",
+            "name": "Padmapur",
+            "villages": [
+              {
+                "id": "126004011001",
+                "name": "Padmapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126004012",
+            "name": "Sohela",
+            "villages": [
+              {
+                "id": "126004012001",
+                "name": "Sohela Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260041000",
+            "name": "Baragada"
+          }
+        ]
+      },
+      {
+        "id": "126005",
+        "name": "Bhadrak",
+        "blocks": [
+          {
+            "id": "126005001",
+            "name": "Banta",
+            "villages": [
+              {
+                "id": "126005001001",
+                "name": "Banta Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126005002",
+            "name": "Basudevpur",
+            "villages": [
+              {
+                "id": "126005002001",
+                "name": "Basudevpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126005003",
+            "name": "Bhandaripokhari",
+            "villages": [
+              {
+                "id": "126005003001",
+                "name": "Bhandaripokhari Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126005004",
+            "name": "Bhadrak Sadar",
+            "villages": [
+              {
+                "id": "126005004001",
+                "name": "Bhadrak Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126005005",
+            "name": "Chandabali",
+            "villages": [
+              {
+                "id": "126005005001",
+                "name": "Chandabali Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126005006",
+            "name": "Dhamanagar",
+            "villages": [
+              {
+                "id": "126005006001",
+                "name": "Dhamanagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126005007",
+            "name": "Tihidi",
+            "villages": [
+              {
+                "id": "126005007001",
+                "name": "Tihidi Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260051000",
+            "name": "Bhadrak"
+          },
+          {
+            "id": "1260051001",
+            "name": "Basudevpur"
+          }
+        ]
+      },
+      {
+        "id": "126006",
+        "name": "Boudh",
+        "blocks": [
+          {
+            "id": "126006001",
+            "name": "Boudh",
+            "villages": [
+              {
+                "id": "126006001001",
+                "name": "Boudh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126006002",
+            "name": "Harbhanga",
+            "villages": [
+              {
+                "id": "126006002001",
+                "name": "Harbhanga Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126006003",
+            "name": "Kantamal",
+            "villages": [
+              {
+                "id": "126006003001",
+                "name": "Kantamal Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260061000",
+            "name": "Boudhagada"
+          }
+        ]
+      },
+      {
+        "id": "126007",
+        "name": "Cuttack",
+        "blocks": [
+          {
+            "id": "126007001",
+            "name": "Athagada",
+            "villages": [
+              {
+                "id": "126007001001",
+                "name": "Athagada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007002",
+            "name": "Badamba",
+            "villages": [
+              {
+                "id": "126007002001",
+                "name": "Badamba Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007003",
+            "name": "Banki",
+            "villages": [
+              {
+                "id": "126007003001",
+                "name": "Banki Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007004",
+            "name": "Banki-Dampada",
+            "villages": [
+              {
+                "id": "126007004001",
+                "name": "Banki-Dampada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007005",
+            "name": "Barang",
+            "villages": [
+              {
+                "id": "126007005001",
+                "name": "Barang Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007006",
+            "name": "Cuttack Sadar",
+            "villages": [
+              {
+                "id": "126007006001",
+                "name": "Cuttack Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007007",
+            "name": "Kantapada",
+            "villages": [
+              {
+                "id": "126007007001",
+                "name": "Kantapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007008",
+            "name": "Mahanga",
+            "villages": [
+              {
+                "id": "126007008001",
+                "name": "Mahanga Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007009",
+            "name": "Nial",
+            "villages": [
+              {
+                "id": "126007009001",
+                "name": "Nial Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007010",
+            "name": "Narasinghpur",
+            "villages": [
+              {
+                "id": "126007010001",
+                "name": "Narasinghpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007011",
+            "name": "Nischintakoili",
+            "villages": [
+              {
+                "id": "126007011001",
+                "name": "Nischintakoili Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007012",
+            "name": "Salepur",
+            "villages": [
+              {
+                "id": "126007012001",
+                "name": "Salepur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007013",
+            "name": "Tangi-Choudwar",
+            "villages": [
+              {
+                "id": "126007013001",
+                "name": "Tangi-Choudwar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126007014",
+            "name": "Tigiria",
+            "villages": [
+              {
+                "id": "126007014001",
+                "name": "Tigiria Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260071000",
+            "name": "Choudwar"
+          }
+        ]
+      },
+      {
+        "id": "126008",
+        "name": "Deogarh",
+        "blocks": [
+          {
+            "id": "126008001",
+            "name": "Barkote",
+            "villages": [
+              {
+                "id": "126008001001",
+                "name": "Barkote Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126008002",
+            "name": "Reamal",
+            "villages": [
+              {
+                "id": "126008002001",
+                "name": "Reamal Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126008003",
+            "name": "Tileibani",
+            "villages": [
+              {
+                "id": "126008003001",
+                "name": "Tileibani Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260081000",
+            "name": "Debagada"
+          }
+        ]
+      },
+      {
+        "id": "126009",
+        "name": "Dhenkanal",
+        "blocks": [
+          {
+            "id": "126009001",
+            "name": "Bhuban",
+            "villages": [
+              {
+                "id": "126009001001",
+                "name": "Bhuban Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009002",
+            "name": "Dhenkanal Sadar",
+            "villages": [
+              {
+                "id": "126009002001",
+                "name": "Dhenkanal Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009003",
+            "name": "Gondia",
+            "villages": [
+              {
+                "id": "126009003001",
+                "name": "Gondia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009004",
+            "name": "Hindol",
+            "villages": [
+              {
+                "id": "126009004001",
+                "name": "Hindol Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009005",
+            "name": "Kamakhyanagar",
+            "villages": [
+              {
+                "id": "126009005001",
+                "name": "Kamakhyanagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009006",
+            "name": "Kankadahad",
+            "villages": [
+              {
+                "id": "126009006001",
+                "name": "Kankadahad Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009007",
+            "name": "Odapada",
+            "villages": [
+              {
+                "id": "126009007001",
+                "name": "Odapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126009008",
+            "name": "Parjanga",
+            "villages": [
+              {
+                "id": "126009008001",
+                "name": "Parjanga Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260091000",
+            "name": "Dhenkanal"
+          }
+        ]
+      },
+      {
+        "id": "126010",
+        "name": "Gajapati",
+        "blocks": [
+          {
+            "id": "126010001",
+            "name": "Gosani",
+            "villages": [
+              {
+                "id": "126010001001",
+                "name": "Gosani Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126010002",
+            "name": "Gumma",
+            "villages": [
+              {
+                "id": "126010002001",
+                "name": "Gumma Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126010003",
+            "name": "Kasinagar",
+            "villages": [
+              {
+                "id": "126010003001",
+                "name": "Kasinagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126010004",
+            "name": "Mohana",
+            "villages": [
+              {
+                "id": "126010004001",
+                "name": "Mohana Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126010005",
+            "name": "Nuagada",
+            "villages": [
+              {
+                "id": "126010005001",
+                "name": "Nuagada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126010006",
+            "name": "R. Udayagiri",
+            "villages": [
+              {
+                "id": "126010006001",
+                "name": "R. Udayagiri Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126010007",
+            "name": "Rayagada",
+            "villages": [
+              {
+                "id": "126010007001",
+                "name": "Rayagada Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260101000",
+            "name": "Paralakhemundi"
+          }
+        ]
+      },
+      {
+        "id": "126011",
+        "name": "Ganjam",
+        "blocks": [
+          {
+            "id": "126011001",
+            "name": "Aska",
+            "villages": [
+              {
+                "id": "126011001001",
+                "name": "Aska Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011002",
+            "name": "Beguniapada",
+            "villages": [
+              {
+                "id": "126011002001",
+                "name": "Beguniapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011003",
+            "name": "Belaguntha",
+            "villages": [
+              {
+                "id": "126011003001",
+                "name": "Belaguntha Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011004",
+            "name": "Bhanjanagar",
+            "villages": [
+              {
+                "id": "126011004001",
+                "name": "Bhanjanagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011005",
+            "name": "Buguda",
+            "villages": [
+              {
+                "id": "126011005001",
+                "name": "Buguda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011006",
+            "name": "Chikiti",
+            "villages": [
+              {
+                "id": "126011006001",
+                "name": "Chikiti Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011007",
+            "name": "Chhatrapur",
+            "villages": [
+              {
+                "id": "126011007001",
+                "name": "Chhatrapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011008",
+            "name": "Dharakote",
+            "villages": [
+              {
+                "id": "126011008001",
+                "name": "Dharakote Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011009",
+            "name": "Digapahandi",
+            "villages": [
+              {
+                "id": "126011009001",
+                "name": "Digapahandi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011010",
+            "name": "Ganjam",
+            "villages": [
+              {
+                "id": "126011010001",
+                "name": "Ganjam Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011011",
+            "name": "Hinjilicut",
+            "villages": [
+              {
+                "id": "126011011001",
+                "name": "Hinjilicut Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011012",
+            "name": "Jagannathprasad",
+            "villages": [
+              {
+                "id": "126011012001",
+                "name": "Jagannathprasad Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011013",
+            "name": "Kabisuryanagar",
+            "villages": [
+              {
+                "id": "126011013001",
+                "name": "Kabisuryanagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011014",
+            "name": "Khalikote",
+            "villages": [
+              {
+                "id": "126011014001",
+                "name": "Khalikote Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011015",
+            "name": "Kukudakhandi",
+            "villages": [
+              {
+                "id": "126011015001",
+                "name": "Kukudakhandi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011016",
+            "name": "Patrapur",
+            "villages": [
+              {
+                "id": "126011016001",
+                "name": "Patrapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011017",
+            "name": "Polasara",
+            "villages": [
+              {
+                "id": "126011017001",
+                "name": "Polasara Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011018",
+            "name": "Purusottampur",
+            "villages": [
+              {
+                "id": "126011018001",
+                "name": "Purusottampur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011019",
+            "name": "Rangeilunda",
+            "villages": [
+              {
+                "id": "126011019001",
+                "name": "Rangeilunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011020",
+            "name": "Sanakhemundi",
+            "villages": [
+              {
+                "id": "126011020001",
+                "name": "Sanakhemundi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011021",
+            "name": "Sheragada",
+            "villages": [
+              {
+                "id": "126011021001",
+                "name": "Sheragada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126011022",
+            "name": "Sorada",
+            "villages": [
+              {
+                "id": "126011022001",
+                "name": "Sorada Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260111000",
+            "name": "Asika"
+          },
+          {
+            "id": "1260111001",
+            "name": "Bhanjanagar"
+          },
+          {
+            "id": "1260111002",
+            "name": "Chatrapur"
+          },
+          {
+            "id": "1260111003",
+            "name": "Hinjilikatu"
+          },
+          {
+            "id": "1260111004",
+            "name": "Kabisuryanagar"
+          },
+          {
+            "id": "1260111005",
+            "name": "Polasara"
+          }
+        ]
+      },
+      {
+        "id": "126012",
+        "name": "Jagatsinghpur",
+        "blocks": [
+          {
+            "id": "126012001",
+            "name": "Balikuda",
+            "villages": [
+              {
+                "id": "126012001001",
+                "name": "Balikuda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012002",
+            "name": "Biridi",
+            "villages": [
+              {
+                "id": "126012002001",
+                "name": "Biridi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012003",
+            "name": "Erasama",
+            "villages": [
+              {
+                "id": "126012003001",
+                "name": "Erasama Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012004",
+            "name": "Jagatsinghpur",
+            "villages": [
+              {
+                "id": "126012004001",
+                "name": "Jagatsinghpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012005",
+            "name": "Kujang",
+            "villages": [
+              {
+                "id": "126012005001",
+                "name": "Kujang Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012006",
+            "name": "Naugaon",
+            "villages": [
+              {
+                "id": "126012006001",
+                "name": "Naugaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012007",
+            "name": "Raghunathpur",
+            "villages": [
+              {
+                "id": "126012007001",
+                "name": "Raghunathpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126012008",
+            "name": "Tirtol",
+            "villages": [
+              {
+                "id": "126012008001",
+                "name": "Tirtol Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260121000",
+            "name": "Jagatsinghpur"
+          },
+          {
+            "id": "1260121001",
+            "name": "Paradeep"
+          }
+        ]
+      },
+      {
+        "id": "126013",
+        "name": "Jajpur",
+        "blocks": [
+          {
+            "id": "126013001",
+            "name": "Badachana",
+            "villages": [
+              {
+                "id": "126013001001",
+                "name": "Badachana Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013002",
+            "name": "Bari",
+            "villages": [
+              {
+                "id": "126013002001",
+                "name": "Bari Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013003",
+            "name": "Binjharpur",
+            "villages": [
+              {
+                "id": "126013003001",
+                "name": "Binjharpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013004",
+            "name": "Danagadi",
+            "villages": [
+              {
+                "id": "126013004001",
+                "name": "Danagadi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013005",
+            "name": "Dasharathpur",
+            "villages": [
+              {
+                "id": "126013005001",
+                "name": "Dasharathpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013006",
+            "name": "Dharmashala",
+            "villages": [
+              {
+                "id": "126013006001",
+                "name": "Dharmashala Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013007",
+            "name": "Jajpur",
+            "villages": [
+              {
+                "id": "126013007001",
+                "name": "Jajpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013008",
+            "name": "Korei",
+            "villages": [
+              {
+                "id": "126013008001",
+                "name": "Korei Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013009",
+            "name": "Rasulpur",
+            "villages": [
+              {
+                "id": "126013009001",
+                "name": "Rasulpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126013010",
+            "name": "Sukinda",
+            "villages": [
+              {
+                "id": "126013010001",
+                "name": "Sukinda Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260131000",
+            "name": "Jajpur"
+          },
+          {
+            "id": "1260131001",
+            "name": "Vyasanagar"
+          }
+        ]
+      },
+      {
+        "id": "126014",
+        "name": "Jharsuguda",
+        "blocks": [
+          {
+            "id": "126014001",
+            "name": "Jharsuguda Sadar",
+            "villages": [
+              {
+                "id": "126014001001",
+                "name": "Jharsuguda Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126014002",
+            "name": "Kirmira",
+            "villages": [
+              {
+                "id": "126014002001",
+                "name": "Kirmira Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126014003",
+            "name": "Kolabira",
+            "villages": [
+              {
+                "id": "126014003001",
+                "name": "Kolabira Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126014004",
+            "name": "Laikera",
+            "villages": [
+              {
+                "id": "126014004001",
+                "name": "Laikera Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126014005",
+            "name": "Lakhanpur",
+            "villages": [
+              {
+                "id": "126014005001",
+                "name": "Lakhanpur Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260141000",
+            "name": "Belpahad"
+          },
+          {
+            "id": "1260141001",
+            "name": "Brajrajnagar"
+          },
+          {
+            "id": "1260141002",
+            "name": "Jharsuguda"
+          }
+        ]
+      },
+      {
+        "id": "126015",
+        "name": "Kalahandi",
+        "blocks": [
+          {
+            "id": "126015001",
+            "name": "Bhawanipatna",
+            "villages": [
+              {
+                "id": "126015001001",
+                "name": "Bhawanipatna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015002",
+            "name": "Dharmagarh",
+            "villages": [
+              {
+                "id": "126015002001",
+                "name": "Dharmagarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015003",
+            "name": "Golmunda",
+            "villages": [
+              {
+                "id": "126015003001",
+                "name": "Golmunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015004",
+            "name": "Jaipatna",
+            "villages": [
+              {
+                "id": "126015004001",
+                "name": "Jaipatna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015005",
+            "name": "Junagarh",
+            "villages": [
+              {
+                "id": "126015005001",
+                "name": "Junagarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015006",
+            "name": "Kalampur",
+            "villages": [
+              {
+                "id": "126015006001",
+                "name": "Kalampur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015007",
+            "name": "Karlamunda",
+            "villages": [
+              {
+                "id": "126015007001",
+                "name": "Karlamunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015008",
+            "name": "Kesinga",
+            "villages": [
+              {
+                "id": "126015008001",
+                "name": "Kesinga Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015009",
+            "name": "Kokasara",
+            "villages": [
+              {
+                "id": "126015009001",
+                "name": "Kokasara Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015010",
+            "name": "Lanjigarh",
+            "villages": [
+              {
+                "id": "126015010001",
+                "name": "Lanjigarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015011",
+            "name": "M. Rampur",
+            "villages": [
+              {
+                "id": "126015011001",
+                "name": "M. Rampur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015012",
+            "name": "Narla",
+            "villages": [
+              {
+                "id": "126015012001",
+                "name": "Narla Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126015013",
+            "name": "Th. Rampur",
+            "villages": [
+              {
+                "id": "126015013001",
+                "name": "Th. Rampur Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260151000",
+            "name": "Bhabanipatana"
+          }
+        ]
+      },
+      {
+        "id": "126016",
+        "name": "Kandhamal",
+        "blocks": [
+          {
+            "id": "126016001",
+            "name": "Baliguda",
+            "villages": [
+              {
+                "id": "126016001001",
+                "name": "Baliguda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016002",
+            "name": "Chakapad",
+            "villages": [
+              {
+                "id": "126016002001",
+                "name": "Chakapad Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016003",
+            "name": "Daringibadi",
+            "villages": [
+              {
+                "id": "126016003001",
+                "name": "Daringibadi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016004",
+            "name": "G. Udayagiri",
+            "villages": [
+              {
+                "id": "126016004001",
+                "name": "G. Udayagiri Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016005",
+            "name": "K. Nuagam",
+            "villages": [
+              {
+                "id": "126016005001",
+                "name": "K. Nuagam Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016006",
+            "name": "Khajuripada",
+            "villages": [
+              {
+                "id": "126016006001",
+                "name": "Khajuripada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016007",
+            "name": "Kotagarh",
+            "villages": [
+              {
+                "id": "126016007001",
+                "name": "Kotagarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016008",
+            "name": "Phiringia",
+            "villages": [
+              {
+                "id": "126016008001",
+                "name": "Phiringia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016009",
+            "name": "Phulbani",
+            "villages": [
+              {
+                "id": "126016009001",
+                "name": "Phulbani Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016010",
+            "name": "Raikia",
+            "villages": [
+              {
+                "id": "126016010001",
+                "name": "Raikia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016011",
+            "name": "Tikabali",
+            "villages": [
+              {
+                "id": "126016011001",
+                "name": "Tikabali Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126016012",
+            "name": "Tumudibandha",
+            "villages": [
+              {
+                "id": "126016012001",
+                "name": "Tumudibandha Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260161000",
+            "name": "Phulbani"
+          }
+        ]
+      },
+      {
+        "id": "126017",
+        "name": "Kendrapara",
+        "blocks": [
+          {
+            "id": "126017001",
+            "name": "Aali",
+            "villages": [
+              {
+                "id": "126017001001",
+                "name": "Aali Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017002",
+            "name": "Derabish",
+            "villages": [
+              {
+                "id": "126017002001",
+                "name": "Derabish Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017003",
+            "name": "Garadapur",
+            "villages": [
+              {
+                "id": "126017003001",
+                "name": "Garadapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017004",
+            "name": "Kendrapara Sadar",
+            "villages": [
+              {
+                "id": "126017004001",
+                "name": "Kendrapara Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017005",
+            "name": "Mahakalapada",
+            "villages": [
+              {
+                "id": "126017005001",
+                "name": "Mahakalapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017006",
+            "name": "Marshaghai",
+            "villages": [
+              {
+                "id": "126017006001",
+                "name": "Marshaghai Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017007",
+            "name": "Pattamundai",
+            "villages": [
+              {
+                "id": "126017007001",
+                "name": "Pattamundai Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017008",
+            "name": "Rajkanika",
+            "villages": [
+              {
+                "id": "126017008001",
+                "name": "Rajkanika Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126017009",
+            "name": "Rajnagar",
+            "villages": [
+              {
+                "id": "126017009001",
+                "name": "Rajnagar Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260171000",
+            "name": "Kendrapada"
+          },
+          {
+            "id": "1260171001",
+            "name": "Pattamundai"
+          }
+        ]
+      },
+      {
+        "id": "126018",
+        "name": "Keonjhar",
+        "blocks": [
+          {
+            "id": "126018001",
+            "name": "Anandapur",
+            "villages": [
+              {
+                "id": "126018001001",
+                "name": "Anandapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018002",
+            "name": "Bansapal",
+            "villages": [
+              {
+                "id": "126018002001",
+                "name": "Bansapal Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018003",
+            "name": "Champua",
+            "villages": [
+              {
+                "id": "126018003001",
+                "name": "Champua Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018004",
+            "name": "Ghatgaon",
+            "villages": [
+              {
+                "id": "126018004001",
+                "name": "Ghatgaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018005",
+            "name": "Ghasipura",
+            "villages": [
+              {
+                "id": "126018005001",
+                "name": "Ghasipura Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018006",
+            "name": "Hatadihi",
+            "villages": [
+              {
+                "id": "126018006001",
+                "name": "Hatadihi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018007",
+            "name": "Joda",
+            "villages": [
+              {
+                "id": "126018007001",
+                "name": "Joda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018008",
+            "name": "Jhumpura",
+            "villages": [
+              {
+                "id": "126018008001",
+                "name": "Jhumpura Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018009",
+            "name": "Keonjhar Sadar",
+            "villages": [
+              {
+                "id": "126018009001",
+                "name": "Keonjhar Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018010",
+            "name": "Patna",
+            "villages": [
+              {
+                "id": "126018010001",
+                "name": "Patna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018011",
+            "name": "Saharapada",
+            "villages": [
+              {
+                "id": "126018011001",
+                "name": "Saharapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126018012",
+            "name": "Telkoi",
+            "villages": [
+              {
+                "id": "126018012001",
+                "name": "Telkoi Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260181000",
+            "name": "Anandapur"
+          },
+          {
+            "id": "1260181001",
+            "name": "Badabil"
+          },
+          {
+            "id": "1260181002",
+            "name": "Joda"
+          },
+          {
+            "id": "1260181003",
+            "name": "Kendujhargada"
+          }
+        ]
+      },
+      {
+        "id": "126019",
+        "name": "Khordha",
+        "blocks": [
+          {
+            "id": "126019001",
+            "name": "Balianta",
+            "villages": [
+              {
+                "id": "126019001001",
+                "name": "Balianta Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019002",
+            "name": "Balipatna",
+            "villages": [
+              {
+                "id": "126019002001",
+                "name": "Balipatna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019003",
+            "name": "Banapur",
+            "villages": [
+              {
+                "id": "126019003001",
+                "name": "Banapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019004",
+            "name": "Begunia",
+            "villages": [
+              {
+                "id": "126019004001",
+                "name": "Begunia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019005",
+            "name": "Bhubaneswar",
+            "villages": [
+              {
+                "id": "126019005001",
+                "name": "Bhubaneswar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019006",
+            "name": "Bolagarh",
+            "villages": [
+              {
+                "id": "126019006001",
+                "name": "Bolagarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019007",
+            "name": "Chilika",
+            "villages": [
+              {
+                "id": "126019007001",
+                "name": "Chilika Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019008",
+            "name": "Jatni",
+            "villages": [
+              {
+                "id": "126019008001",
+                "name": "Jatni Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019009",
+            "name": "Khordha",
+            "villages": [
+              {
+                "id": "126019009001",
+                "name": "Khordha Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126019010",
+            "name": "Tangi",
+            "villages": [
+              {
+                "id": "126019010001",
+                "name": "Tangi Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260191000",
+            "name": "Jatani"
+          },
+          {
+            "id": "1260191001",
+            "name": "Khordha"
+          }
+        ]
+      },
+      {
+        "id": "126020",
+        "name": "Koraput",
+        "blocks": [
+          {
+            "id": "126020001",
+            "name": "Bandhugaon",
+            "villages": [
+              {
+                "id": "126020001001",
+                "name": "Bandhugaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020002",
+            "name": "Boipariguda",
+            "villages": [
+              {
+                "id": "126020002001",
+                "name": "Boipariguda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020003",
+            "name": "Borigumma",
+            "villages": [
+              {
+                "id": "126020003001",
+                "name": "Borigumma Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020004",
+            "name": "Dasamanthpur",
+            "villages": [
+              {
+                "id": "126020004001",
+                "name": "Dasamanthpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020005",
+            "name": "Jeypore",
+            "villages": [
+              {
+                "id": "126020005001",
+                "name": "Jeypore Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020006",
+            "name": "Koraput",
+            "villages": [
+              {
+                "id": "126020006001",
+                "name": "Koraput Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020007",
+            "name": "Kotpad",
+            "villages": [
+              {
+                "id": "126020007001",
+                "name": "Kotpad Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020008",
+            "name": "Kundra",
+            "villages": [
+              {
+                "id": "126020008001",
+                "name": "Kundra Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020009",
+            "name": "Lamtaput",
+            "villages": [
+              {
+                "id": "126020009001",
+                "name": "Lamtaput Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020010",
+            "name": "Laxmipur",
+            "villages": [
+              {
+                "id": "126020010001",
+                "name": "Laxmipur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020011",
+            "name": "Nandapur",
+            "villages": [
+              {
+                "id": "126020011001",
+                "name": "Nandapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020012",
+            "name": "Narayanpatna",
+            "villages": [
+              {
+                "id": "126020012001",
+                "name": "Narayanpatna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020013",
+            "name": "Pottangi",
+            "villages": [
+              {
+                "id": "126020013001",
+                "name": "Pottangi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126020014",
+            "name": "Similiguda",
+            "villages": [
+              {
+                "id": "126020014001",
+                "name": "Similiguda Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260201000",
+            "name": "Jayapur"
+          },
+          {
+            "id": "1260201001",
+            "name": "Koraput"
+          },
+          {
+            "id": "1260201002",
+            "name": "Sunabeda"
+          }
+        ]
+      },
+      {
+        "id": "126021",
+        "name": "Malkangiri",
+        "blocks": [
+          {
+            "id": "126021001",
+            "name": "Kalimela",
+            "villages": [
+              {
+                "id": "126021001001",
+                "name": "Kalimela Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126021002",
+            "name": "Khairput",
+            "villages": [
+              {
+                "id": "126021002001",
+                "name": "Khairput Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126021003",
+            "name": "Korkunda",
+            "villages": [
+              {
+                "id": "126021003001",
+                "name": "Korkunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126021004",
+            "name": "Kudumulugumma",
+            "villages": [
+              {
+                "id": "126021004001",
+                "name": "Kudumulugumma Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126021005",
+            "name": "Malkangiri",
+            "villages": [
+              {
+                "id": "126021005001",
+                "name": "Malkangiri Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126021006",
+            "name": "Mathili",
+            "villages": [
+              {
+                "id": "126021006001",
+                "name": "Mathili Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126021007",
+            "name": "Podia",
+            "villages": [
+              {
+                "id": "126021007001",
+                "name": "Podia Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260211000",
+            "name": "Malkangiri"
+          }
+        ]
+      },
+      {
+        "id": "126022",
+        "name": "Mayurbhanj",
+        "blocks": [
+          {
+            "id": "126022001",
+            "name": "Badasahi",
+            "villages": [
+              {
+                "id": "126022001001",
+                "name": "Badasahi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022002",
+            "name": "Bahalda",
+            "villages": [
+              {
+                "id": "126022002001",
+                "name": "Bahalda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022003",
+            "name": "Bangiriposi",
+            "villages": [
+              {
+                "id": "126022003001",
+                "name": "Bangiriposi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022004",
+            "name": "Baripada",
+            "villages": [
+              {
+                "id": "126022004001",
+                "name": "Baripada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022005",
+            "name": "Betnati",
+            "villages": [
+              {
+                "id": "126022005001",
+                "name": "Betnati Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022006",
+            "name": "Bijatola",
+            "villages": [
+              {
+                "id": "126022006001",
+                "name": "Bijatola Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022007",
+            "name": "Bisoi",
+            "villages": [
+              {
+                "id": "126022007001",
+                "name": "Bisoi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022008",
+            "name": "Gopabandhunagar",
+            "villages": [
+              {
+                "id": "126022008001",
+                "name": "Gopabandhunagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022009",
+            "name": "Jamda",
+            "villages": [
+              {
+                "id": "126022009001",
+                "name": "Jamda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022010",
+            "name": "Karanjia",
+            "villages": [
+              {
+                "id": "126022010001",
+                "name": "Karanjia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022011",
+            "name": "Khunta",
+            "villages": [
+              {
+                "id": "126022011001",
+                "name": "Khunta Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022012",
+            "name": "Kuliana",
+            "villages": [
+              {
+                "id": "126022012001",
+                "name": "Kuliana Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022013",
+            "name": "Kusumi",
+            "villages": [
+              {
+                "id": "126022013001",
+                "name": "Kusumi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022014",
+            "name": "Morada",
+            "villages": [
+              {
+                "id": "126022014001",
+                "name": "Morada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022015",
+            "name": "Rairangpur",
+            "villages": [
+              {
+                "id": "126022015001",
+                "name": "Rairangpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022016",
+            "name": "Rasgovindpur",
+            "villages": [
+              {
+                "id": "126022016001",
+                "name": "Rasgovindpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022017",
+            "name": "Samakhunta",
+            "villages": [
+              {
+                "id": "126022017001",
+                "name": "Samakhunta Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022018",
+            "name": "Saraskana",
+            "villages": [
+              {
+                "id": "126022018001",
+                "name": "Saraskana Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022019",
+            "name": "Sukruli",
+            "villages": [
+              {
+                "id": "126022019001",
+                "name": "Sukruli Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022020",
+            "name": "Suliapada",
+            "villages": [
+              {
+                "id": "126022020001",
+                "name": "Suliapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022021",
+            "name": "Thakurmunda",
+            "villages": [
+              {
+                "id": "126022021001",
+                "name": "Thakurmunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022022",
+            "name": "Tiring",
+            "villages": [
+              {
+                "id": "126022022001",
+                "name": "Tiring Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126022023",
+            "name": "Udala",
+            "villages": [
+              {
+                "id": "126022023001",
+                "name": "Udala Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260221000",
+            "name": "Baripada"
+          },
+          {
+            "id": "1260221001",
+            "name": "Karanjia"
+          },
+          {
+            "id": "1260221002",
+            "name": "Rairangpur"
+          }
+        ]
+      },
+      {
+        "id": "126023",
+        "name": "Nabarangpur",
+        "blocks": [
+          {
+            "id": "126023001",
+            "name": "Chandahandi",
+            "villages": [
+              {
+                "id": "126023001001",
+                "name": "Chandahandi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023002",
+            "name": "Dabugaon",
+            "villages": [
+              {
+                "id": "126023002001",
+                "name": "Dabugaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023003",
+            "name": "Jharigaon",
+            "villages": [
+              {
+                "id": "126023003001",
+                "name": "Jharigaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023004",
+            "name": "Kosagumuda",
+            "villages": [
+              {
+                "id": "126023004001",
+                "name": "Kosagumuda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023005",
+            "name": "Nabarangpur",
+            "villages": [
+              {
+                "id": "126023005001",
+                "name": "Nabarangpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023006",
+            "name": "Nandahandi",
+            "villages": [
+              {
+                "id": "126023006001",
+                "name": "Nandahandi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023007",
+            "name": "Papadahandi",
+            "villages": [
+              {
+                "id": "126023007001",
+                "name": "Papadahandi Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023008",
+            "name": "Raighar",
+            "villages": [
+              {
+                "id": "126023008001",
+                "name": "Raighar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023009",
+            "name": "Tentulikhunti",
+            "villages": [
+              {
+                "id": "126023009001",
+                "name": "Tentulikhunti Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126023010",
+            "name": "Umerkote",
+            "villages": [
+              {
+                "id": "126023010001",
+                "name": "Umerkote Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260231000",
+            "name": "Nabarangpur"
+          },
+          {
+            "id": "1260231001",
+            "name": "Umarkot"
+          }
+        ]
+      },
+      {
+        "id": "126024",
+        "name": "Nayagarh",
+        "blocks": [
+          {
+            "id": "126024001",
+            "name": "Bhapur",
+            "villages": [
+              {
+                "id": "126024001001",
+                "name": "Bhapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024002",
+            "name": "Dasapalla",
+            "villages": [
+              {
+                "id": "126024002001",
+                "name": "Dasapalla Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024003",
+            "name": "Gania",
+            "villages": [
+              {
+                "id": "126024003001",
+                "name": "Gania Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024004",
+            "name": "Khandapada",
+            "villages": [
+              {
+                "id": "126024004001",
+                "name": "Khandapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024005",
+            "name": "Nayagarh",
+            "villages": [
+              {
+                "id": "126024005001",
+                "name": "Nayagarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024006",
+            "name": "Nuagaon",
+            "villages": [
+              {
+                "id": "126024006001",
+                "name": "Nuagaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024007",
+            "name": "Odagaon",
+            "villages": [
+              {
+                "id": "126024007001",
+                "name": "Odagaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126024008",
+            "name": "Ranapur",
+            "villages": [
+              {
+                "id": "126024008001",
+                "name": "Ranapur Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260241000",
+            "name": "Nayagarh"
+          }
+        ]
+      },
+      {
+        "id": "126025",
+        "name": "Nuapada",
+        "blocks": [
+          {
+            "id": "126025001",
+            "name": "Boden",
+            "villages": [
+              {
+                "id": "126025001001",
+                "name": "Boden Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126025002",
+            "name": "Khariar",
+            "villages": [
+              {
+                "id": "126025002001",
+                "name": "Khariar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126025003",
+            "name": "Komna",
+            "villages": [
+              {
+                "id": "126025003001",
+                "name": "Komna Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126025004",
+            "name": "Nuapada",
+            "villages": [
+              {
+                "id": "126025004001",
+                "name": "Nuapada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126025005",
+            "name": "Sinapalli",
+            "villages": [
+              {
+                "id": "126025005001",
+                "name": "Sinapalli Village 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "126026",
+        "name": "Puri",
+        "blocks": [
+          {
+            "id": "126026001",
+            "name": "Astaranga",
+            "villages": [
+              {
+                "id": "126026001001",
+                "name": "Astaranga Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026002",
+            "name": "Brahmagiri",
+            "villages": [
+              {
+                "id": "126026002001",
+                "name": "Brahmagiri Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026003",
+            "name": "Delang",
+            "villages": [
+              {
+                "id": "126026003001",
+                "name": "Delang Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026004",
+            "name": "Gop",
+            "villages": [
+              {
+                "id": "126026004001",
+                "name": "Gop Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026005",
+            "name": "Kakatpur",
+            "villages": [
+              {
+                "id": "126026005001",
+                "name": "Kakatpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026006",
+            "name": "Kanas",
+            "villages": [
+              {
+                "id": "126026006001",
+                "name": "Kanas Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026007",
+            "name": "Krushnaprasad",
+            "villages": [
+              {
+                "id": "126026007001",
+                "name": "Krushnaprasad Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026008",
+            "name": "Nimapara",
+            "villages": [
+              {
+                "id": "126026008001",
+                "name": "Nimapara Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026009",
+            "name": "Pipili",
+            "villages": [
+              {
+                "id": "126026009001",
+                "name": "Pipili Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026010",
+            "name": "Puri Sadar",
+            "villages": [
+              {
+                "id": "126026010001",
+                "name": "Puri Sadar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126026011",
+            "name": "Satyabadi",
+            "villages": [
+              {
+                "id": "126026011001",
+                "name": "Satyabadi Village 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "126027",
+        "name": "Rayagada",
+        "blocks": [
+          {
+            "id": "126027001",
+            "name": "Bissam Cuttack",
+            "villages": [
+              {
+                "id": "126027001001",
+                "name": "Bissam Cuttack Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027002",
+            "name": "Chandrapur",
+            "villages": [
+              {
+                "id": "126027002001",
+                "name": "Chandrapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027003",
+            "name": "Gudari",
+            "villages": [
+              {
+                "id": "126027003001",
+                "name": "Gudari Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027004",
+            "name": "Kalyansingpur",
+            "villages": [
+              {
+                "id": "126027004001",
+                "name": "Kalyansingpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027005",
+            "name": "Kasinagar",
+            "villages": [
+              {
+                "id": "126027005001",
+                "name": "Kasinagar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027006",
+            "name": "Kolnara",
+            "villages": [
+              {
+                "id": "126027006001",
+                "name": "Kolnara Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027007",
+            "name": "Muniguda",
+            "villages": [
+              {
+                "id": "126027007001",
+                "name": "Muniguda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027008",
+            "name": "Padmapur",
+            "villages": [
+              {
+                "id": "126027008001",
+                "name": "Padmapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027009",
+            "name": "Rayagada",
+            "villages": [
+              {
+                "id": "126027009001",
+                "name": "Rayagada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027010",
+            "name": "Ramanaguda",
+            "villages": [
+              {
+                "id": "126027010001",
+                "name": "Ramanaguda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126027011",
+            "name": "Thigiria",
+            "villages": [
+              {
+                "id": "126027011001",
+                "name": "Thigiria Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260271000",
+            "name": "Gunupur"
+          },
+          {
+            "id": "1260271001",
+            "name": "Rayagada"
+          }
+        ]
+      },
+      {
+        "id": "126028",
+        "name": "Sambalpur",
+        "blocks": [
+          {
+            "id": "126028001",
+            "name": "Bamra",
+            "villages": [
+              {
+                "id": "126028001001",
+                "name": "Bamra Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028002",
+            "name": "Jamankira",
+            "villages": [
+              {
+                "id": "126028002001",
+                "name": "Jamankira Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028003",
+            "name": "Jujomura",
+            "villages": [
+              {
+                "id": "126028003001",
+                "name": "Jujomura Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028004",
+            "name": "Kuchinda",
+            "villages": [
+              {
+                "id": "126028004001",
+                "name": "Kuchinda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028005",
+            "name": "Maneswar",
+            "villages": [
+              {
+                "id": "126028005001",
+                "name": "Maneswar Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028006",
+            "name": "Naktideol",
+            "villages": [
+              {
+                "id": "126028006001",
+                "name": "Naktideol Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028007",
+            "name": "Rairakhol",
+            "villages": [
+              {
+                "id": "126028007001",
+                "name": "Rairakhol Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028008",
+            "name": "Rengali",
+            "villages": [
+              {
+                "id": "126028008001",
+                "name": "Rengali Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126028009",
+            "name": "Sambalpur Sadar",
+            "villages": [
+              {
+                "id": "126028009001",
+                "name": "Sambalpur Sadar Village 1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "126029",
+        "name": "Subarnapur",
+        "blocks": [
+          {
+            "id": "126029001",
+            "name": "Birmaharajpur",
+            "villages": [
+              {
+                "id": "126029001001",
+                "name": "Birmaharajpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126029002",
+            "name": "Dunguripali",
+            "villages": [
+              {
+                "id": "126029002001",
+                "name": "Dunguripali Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126029003",
+            "name": "Sonepur",
+            "villages": [
+              {
+                "id": "126029003001",
+                "name": "Sonepur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126029004",
+            "name": "Tarva",
+            "villages": [
+              {
+                "id": "126029004001",
+                "name": "Tarva Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126029005",
+            "name": "Udayapur",
+            "villages": [
+              {
+                "id": "126029005001",
+                "name": "Udayapur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126029006",
+            "name": "Karamandal",
+            "villages": [
+              {
+                "id": "126029006001",
+                "name": "Karamandal Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260291000",
+            "name": "Sonpur"
+          }
+        ]
+      },
+      {
+        "id": "126030",
+        "name": "Sundargarh",
+        "blocks": [
+          {
+            "id": "126030001",
+            "name": "Balisankara",
+            "villages": [
+              {
+                "id": "126030001001",
+                "name": "Balisankara Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030002",
+            "name": "Bargaon",
+            "villages": [
+              {
+                "id": "126030002001",
+                "name": "Bargaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030003",
+            "name": "Bisra",
+            "villages": [
+              {
+                "id": "126030003001",
+                "name": "Bisra Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030004",
+            "name": "Banei",
+            "villages": [
+              {
+                "id": "126030004001",
+                "name": "Banei Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030005",
+            "name": "Gurundia",
+            "villages": [
+              {
+                "id": "126030005001",
+                "name": "Gurundia Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030006",
+            "name": "Hemgiri",
+            "villages": [
+              {
+                "id": "126030006001",
+                "name": "Hemgiri Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030007",
+            "name": "Koira",
+            "villages": [
+              {
+                "id": "126030007001",
+                "name": "Koira Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030008",
+            "name": "Kuanrmunda",
+            "villages": [
+              {
+                "id": "126030008001",
+                "name": "Kuanrmunda Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030009",
+            "name": "Kutra",
+            "villages": [
+              {
+                "id": "126030009001",
+                "name": "Kutra Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030010",
+            "name": "Lahunipada",
+            "villages": [
+              {
+                "id": "126030010001",
+                "name": "Lahunipada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030011",
+            "name": "Lathikata",
+            "villages": [
+              {
+                "id": "126030011001",
+                "name": "Lathikata Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030012",
+            "name": "Lephripada",
+            "villages": [
+              {
+                "id": "126030012001",
+                "name": "Lephripada Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030013",
+            "name": "Nuagaon",
+            "villages": [
+              {
+                "id": "126030013001",
+                "name": "Nuagaon Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030014",
+            "name": "Rajgangpur",
+            "villages": [
+              {
+                "id": "126030014001",
+                "name": "Rajgangpur Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030015",
+            "name": "Subdega",
+            "villages": [
+              {
+                "id": "126030015001",
+                "name": "Subdega Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030016",
+            "name": "Sundargarh",
+            "villages": [
+              {
+                "id": "126030016001",
+                "name": "Sundargarh Village 1"
+              }
+            ]
+          },
+          {
+            "id": "126030017",
+            "name": "Tangarpali",
+            "villages": [
+              {
+                "id": "126030017001",
+                "name": "Tangarpali Village 1"
+              }
+            ]
+          }
+        ],
+        "municipalities": [
+          {
+            "id": "1260301000",
+            "name": "Birmitrapur"
+          },
+          {
+            "id": "1260301001",
+            "name": "Rajgangpur"
+          },
+          {
+            "id": "1260301002",
+            "name": "Sundaragada"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Puducherry",
+    "districts": [
+      {
+        "id": "127001",
+        "name": "Karaikal"
+      },
+      {
+        "id": "127002",
+        "name": "Mahe"
+      },
+      {
+        "id": "127003",
+        "name": "Puducherry"
+      },
+      {
+        "id": "127004",
+        "name": "Yanam"
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Punjab",
+    "districts": [
+      {
+        "id": "128001",
+        "name": "Amritsar"
+      },
+      {
+        "id": "128002",
+        "name": "Barnala"
+      },
+      {
+        "id": "128003",
+        "name": "Bathinda"
+      },
+      {
+        "id": "128004",
+        "name": "Faridkot"
+      },
+      {
+        "id": "128005",
+        "name": "Fatehgarh Sahib"
+      },
+      {
+        "id": "128006",
+        "name": "Fazilka"
+      },
+      {
+        "id": "128007",
+        "name": "Firozpur"
+      },
+      {
+        "id": "128008",
+        "name": "Gurdaspur"
+      },
+      {
+        "id": "128009",
+        "name": "Hoshiarpur"
+      },
+      {
+        "id": "128010",
+        "name": "Jalandhar"
+      },
+      {
+        "id": "128011",
+        "name": "Kapurthala"
+      },
+      {
+        "id": "128012",
+        "name": "Ludhiana"
+      },
+      {
+        "id": "128013",
+        "name": "Malerkotla"
+      },
+      {
+        "id": "128014",
+        "name": "Mansa"
+      },
+      {
+        "id": "128015",
+        "name": "Moga"
+      },
+      {
+        "id": "128016",
+        "name": "Mohali"
+      },
+      {
+        "id": "128017",
+        "name": "Muktsar"
+      },
+      {
+        "id": "128018",
+        "name": "Pathankot"
+      },
+      {
+        "id": "128019",
+        "name": "Patiala"
+      },
+      {
+        "id": "128020",
+        "name": "Rupnagar"
+      },
+      {
+        "id": "128021",
+        "name": "Sangrur"
+      },
+      {
+        "id": "128022",
+        "name": "Shaheed Bhagat Singh Nagar"
+      },
+      {
+        "id": "128023",
+        "name": "Tarn Taran"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Rajasthan",
+    "districts": [
+      {
+        "id": "129001",
+        "name": "Ajmer"
+      },
+      {
+        "id": "129002",
+        "name": "Alwar"
+      },
+      {
+        "id": "129003",
+        "name": "Banswara"
+      },
+      {
+        "id": "129004",
+        "name": "Baran"
+      },
+      {
+        "id": "129005",
+        "name": "Barmer"
+      },
+      {
+        "id": "129006",
+        "name": "Bharatpur"
+      },
+      {
+        "id": "129007",
+        "name": "Bhilwara"
+      },
+      {
+        "id": "129008",
+        "name": "Bikaner"
+      },
+      {
+        "id": "129009",
+        "name": "Bundi"
+      },
+      {
+        "id": "129010",
+        "name": "Chittorgarh"
+      },
+      {
+        "id": "129011",
+        "name": "Churu"
+      },
+      {
+        "id": "129012",
+        "name": "Dausa"
+      },
+      {
+        "id": "129013",
+        "name": "Dholpur"
+      },
+      {
+        "id": "129014",
+        "name": "Dungarpur"
+      },
+      {
+        "id": "129015",
+        "name": "Hanumangarh"
+      },
+      {
+        "id": "129016",
+        "name": "Jaipur"
+      },
+      {
+        "id": "129017",
+        "name": "Jaisalmer"
+      },
+      {
+        "id": "129018",
+        "name": "Jalore"
+      },
+      {
+        "id": "129019",
+        "name": "Jhalawar"
+      },
+      {
+        "id": "129020",
+        "name": "Jhunjhunu"
+      },
+      {
+        "id": "129021",
+        "name": "Jodhpur"
+      },
+      {
+        "id": "129022",
+        "name": "Karauli"
+      },
+      {
+        "id": "129023",
+        "name": "Kota"
+      },
+      {
+        "id": "129024",
+        "name": "Nagaur"
+      },
+      {
+        "id": "129025",
+        "name": "Pali"
+      },
+      {
+        "id": "129026",
+        "name": "Pratapgarh"
+      },
+      {
+        "id": "129027",
+        "name": "Rajsamand"
+      },
+      {
+        "id": "129028",
+        "name": "Sawai Madhopur"
+      },
+      {
+        "id": "129029",
+        "name": "Sikar"
+      },
+      {
+        "id": "129030",
+        "name": "Sirohi"
+      },
+      {
+        "id": "129031",
+        "name": "Sri Ganganagar"
+      },
+      {
+        "id": "129032",
+        "name": "Tonk"
+      },
+      {
+        "id": "129033",
+        "name": "Udaipur"
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Sikkim",
+    "districts": [
+      {
+        "id": "130001",
+        "name": "Gangtok"
+      },
+      {
+        "id": "130002",
+        "name": "Gyalshing"
+      },
+      {
+        "id": "130003",
+        "name": "Mangan"
+      },
+      {
+        "id": "130004",
+        "name": "Namchi"
+      },
+      {
+        "id": "130005",
+        "name": "Pakyong"
+      },
+      {
+        "id": "130006",
+        "name": "Soreng"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Tamil Nadu",
+    "districts": [
+      {
+        "id": "131001",
+        "name": "Ariyalur"
+      },
+      {
+        "id": "131002",
+        "name": "Chengalpattu"
+      },
+      {
+        "id": "131003",
+        "name": "Chennai"
+      },
+      {
+        "id": "131004",
+        "name": "Coimbatore"
+      },
+      {
+        "id": "131005",
+        "name": "Cuddalore"
+      },
+      {
+        "id": "131006",
+        "name": "Dharmapuri"
+      },
+      {
+        "id": "131007",
+        "name": "Dindigul"
+      },
+      {
+        "id": "131008",
+        "name": "Erode"
+      },
+      {
+        "id": "131009",
+        "name": "Kallakurichi"
+      },
+      {
+        "id": "131010",
+        "name": "Kancheepuram"
+      },
+      {
+        "id": "131011",
+        "name": "Kanyakumari"
+      },
+      {
+        "id": "131012",
+        "name": "Karur"
+      },
+      {
+        "id": "131013",
+        "name": "Krishnagiri"
+      },
+      {
+        "id": "131014",
+        "name": "Madurai"
+      },
+      {
+        "id": "131015",
+        "name": "Mayiladuthurai"
+      },
+      {
+        "id": "131016",
+        "name": "Nagapattinam"
+      },
+      {
+        "id": "131017",
+        "name": "Namakkal"
+      },
+      {
+        "id": "131018",
+        "name": "Nilgiris"
+      },
+      {
+        "id": "131019",
+        "name": "Perambalur"
+      },
+      {
+        "id": "131020",
+        "name": "Pudukkottai"
+      },
+      {
+        "id": "131021",
+        "name": "Ramanathapuram"
+      },
+      {
+        "id": "131022",
+        "name": "Ranipet"
+      },
+      {
+        "id": "131023",
+        "name": "Salem"
+      },
+      {
+        "id": "131024",
+        "name": "Sivaganga"
+      },
+      {
+        "id": "131025",
+        "name": "Tenkasi"
+      },
+      {
+        "id": "131026",
+        "name": "Thanjavur"
+      },
+      {
+        "id": "131027",
+        "name": "Theni"
+      },
+      {
+        "id": "131028",
+        "name": "Thoothukudi"
+      },
+      {
+        "id": "131029",
+        "name": "Tiruchirappalli"
+      },
+      {
+        "id": "131030",
+        "name": "Tirunelveli"
+      },
+      {
+        "id": "131031",
+        "name": "Tirupathur"
+      },
+      {
+        "id": "131032",
+        "name": "Tiruppur"
+      },
+      {
+        "id": "131033",
+        "name": "Tiruvallur"
+      },
+      {
+        "id": "131034",
+        "name": "Tiruvannamalai"
+      },
+      {
+        "id": "131035",
+        "name": "Tiruvarur"
+      },
+      {
+        "id": "131036",
+        "name": "Vellore"
+      },
+      {
+        "id": "131037",
+        "name": "Viluppuram"
+      },
+      {
+        "id": "131038",
+        "name": "Virudhunagar"
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Telangana",
+    "districts": [
+      {
+        "id": "132001",
+        "name": "Adilabad"
+      },
+      {
+        "id": "132002",
+        "name": "Bhadradri Kothagudem"
+      },
+      {
+        "id": "132003",
+        "name": "Hanamkonda"
+      },
+      {
+        "id": "132004",
+        "name": "Hyderabad"
+      },
+      {
+        "id": "132005",
+        "name": "Jagtial"
+      },
+      {
+        "id": "132006",
+        "name": "Jangaon"
+      },
+      {
+        "id": "132007",
+        "name": "Jayashankar Bhupalpally"
+      },
+      {
+        "id": "132008",
+        "name": "Jogulamba Gadwal"
+      },
+      {
+        "id": "132009",
+        "name": "Kamareddy"
+      },
+      {
+        "id": "132010",
+        "name": "Karimnagar"
+      },
+      {
+        "id": "132011",
+        "name": "Khammam"
+      },
+      {
+        "id": "132012",
+        "name": "Kumuram Bheem Asifabad"
+      },
+      {
+        "id": "132013",
+        "name": "Mahabubabad"
+      },
+      {
+        "id": "132014",
+        "name": "Mahabubnagar"
+      },
+      {
+        "id": "132015",
+        "name": "Mancherial"
+      },
+      {
+        "id": "132016",
+        "name": "Medak"
+      },
+      {
+        "id": "132017",
+        "name": "Medchal-Malkajgiri"
+      },
+      {
+        "id": "132018",
+        "name": "Mulugu"
+      },
+      {
+        "id": "132019",
+        "name": "Nagarkurnool"
+      },
+      {
+        "id": "132020",
+        "name": "Nalgonda"
+      },
+      {
+        "id": "132021",
+        "name": "Narayanpet"
+      },
+      {
+        "id": "132022",
+        "name": "Nirmal"
+      },
+      {
+        "id": "132023",
+        "name": "Nizamabad"
+      },
+      {
+        "id": "132024",
+        "name": "Peddapalli"
+      },
+      {
+        "id": "132025",
+        "name": "Rajanna Sircilla"
+      },
+      {
+        "id": "132026",
+        "name": "Ranga Reddy"
+      },
+      {
+        "id": "132027",
+        "name": "Sangareddy"
+      },
+      {
+        "id": "132028",
+        "name": "Siddipet"
+      },
+      {
+        "id": "132029",
+        "name": "Suryapet"
+      },
+      {
+        "id": "132030",
+        "name": "Vikarabad"
+      },
+      {
+        "id": "132031",
+        "name": "Wanaparthy"
+      },
+      {
+        "id": "132032",
+        "name": "Warangal"
+      },
+      {
+        "id": "132033",
+        "name": "Yadadri Bhuvanagiri"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Tripura",
+    "districts": [
+      {
+        "id": "133001",
+        "name": "Dhalai"
+      },
+      {
+        "id": "133002",
+        "name": "Gomati"
+      },
+      {
+        "id": "133003",
+        "name": "Khowai"
+      },
+      {
+        "id": "133004",
+        "name": "North Tripura"
+      },
+      {
+        "id": "133005",
+        "name": "Sipahijala"
+      },
+      {
+        "id": "133006",
+        "name": "South Tripura"
+      },
+      {
+        "id": "133007",
+        "name": "Unakoti"
+      },
+      {
+        "id": "133008",
+        "name": "West Tripura"
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Uttar Pradesh",
+    "districts": [
+      {
+        "id": "134001",
+        "name": "Agra"
+      },
+      {
+        "id": "134002",
+        "name": "Aligarh"
+      },
+      {
+        "id": "134003",
+        "name": "Ambedkar Nagar"
+      },
+      {
+        "id": "134004",
+        "name": "Amethi"
+      },
+      {
+        "id": "134005",
+        "name": "Amroha"
+      },
+      {
+        "id": "134006",
+        "name": "Auraiya"
+      },
+      {
+        "id": "134007",
+        "name": "Ayodhya"
+      },
+      {
+        "id": "134008",
+        "name": "Azamgarh"
+      },
+      {
+        "id": "134009",
+        "name": "Badaun"
+      },
+      {
+        "id": "134010",
+        "name": "Baghpat"
+      },
+      {
+        "id": "134011",
+        "name": "Bahraich"
+      },
+      {
+        "id": "134012",
+        "name": "Ballia"
+      },
+      {
+        "id": "134013",
+        "name": "Balrampur"
+      },
+      {
+        "id": "134014",
+        "name": "Banda"
+      },
+      {
+        "id": "134015",
+        "name": "Barabanki"
+      },
+      {
+        "id": "134016",
+        "name": "Bareilly"
+      },
+      {
+        "id": "134017",
+        "name": "Basti"
+      },
+      {
+        "id": "134018",
+        "name": "Bhadohi"
+      },
+      {
+        "id": "134019",
+        "name": "Bijnor"
+      },
+      {
+        "id": "134020",
+        "name": "Bulandshahr"
+      },
+      {
+        "id": "134021",
+        "name": "Chandauli"
+      },
+      {
+        "id": "134022",
+        "name": "Chitrakoot"
+      },
+      {
+        "id": "134023",
+        "name": "Deoria"
+      },
+      {
+        "id": "134024",
+        "name": "Etah"
+      },
+      {
+        "id": "134025",
+        "name": "Etawah"
+      },
+      {
+        "id": "134026",
+        "name": "Farrukhabad"
+      },
+      {
+        "id": "134027",
+        "name": "Fatehpur"
+      },
+      {
+        "id": "134028",
+        "name": "Firozabad"
+      },
+      {
+        "id": "134029",
+        "name": "Gautam Buddha Nagar"
+      },
+      {
+        "id": "134030",
+        "name": "Ghaziabad"
+      },
+      {
+        "id": "134031",
+        "name": "Ghazipur"
+      },
+      {
+        "id": "134032",
+        "name": "Gonda"
+      },
+      {
+        "id": "134033",
+        "name": "Gorakhpur"
+      },
+      {
+        "id": "134034",
+        "name": "Hamirpur"
+      },
+      {
+        "id": "134035",
+        "name": "Hapur"
+      },
+      {
+        "id": "134036",
+        "name": "Hardoi"
+      },
+      {
+        "id": "134037",
+        "name": "Hathras"
+      },
+      {
+        "id": "134038",
+        "name": "Jalaun"
+      },
+      {
+        "id": "134039",
+        "name": "Jaunpur"
+      },
+      {
+        "id": "134040",
+        "name": "Jhansi"
+      },
+      {
+        "id": "134041",
+        "name": "Kannauj"
+      },
+      {
+        "id": "134042",
+        "name": "Kanpur Dehat"
+      },
+      {
+        "id": "134043",
+        "name": "Kanpur Nagar"
+      },
+      {
+        "id": "134044",
+        "name": "Kasganj"
+      },
+      {
+        "id": "134045",
+        "name": "Kaushambi"
+      },
+      {
+        "id": "134046",
+        "name": "Kheri"
+      },
+      {
+        "id": "134047",
+        "name": "Kushinagar"
+      },
+      {
+        "id": "134048",
+        "name": "Lalitpur"
+      },
+      {
+        "id": "134049",
+        "name": "Lucknow"
+      },
+      {
+        "id": "134050",
+        "name": "Maharajganj"
+      },
+      {
+        "id": "134051",
+        "name": "Mahoba"
+      },
+      {
+        "id": "134052",
+        "name": "Mainpuri"
+      },
+      {
+        "id": "134053",
+        "name": "Mathura"
+      },
+      {
+        "id": "134054",
+        "name": "Mau"
+      },
+      {
+        "id": "134055",
+        "name": "Meerut"
+      },
+      {
+        "id": "134056",
+        "name": "Mirzapur"
+      },
+      {
+        "id": "134057",
+        "name": "Moradabad"
+      },
+      {
+        "id": "134058",
+        "name": "Muzaffarnagar"
+      },
+      {
+        "id": "134059",
+        "name": "Pilibhit"
+      },
+      {
+        "id": "134060",
+        "name": "Pratapgarh"
+      },
+      {
+        "id": "134061",
+        "name": "Prayagraj"
+      },
+      {
+        "id": "134062",
+        "name": "Rae Bareli"
+      },
+      {
+        "id": "134063",
+        "name": "Rampur"
+      },
+      {
+        "id": "134064",
+        "name": "Saharanpur"
+      },
+      {
+        "id": "134065",
+        "name": "Sambhal"
+      },
+      {
+        "id": "134066",
+        "name": "Sant Kabir Nagar"
+      },
+      {
+        "id": "134067",
+        "name": "Shahjahanpur"
+      },
+      {
+        "id": "134068",
+        "name": "Shamli"
+      },
+      {
+        "id": "134069",
+        "name": "Shravasti"
+      },
+      {
+        "id": "134070",
+        "name": "Siddharthnagar"
+      },
+      {
+        "id": "134071",
+        "name": "Sitapur"
+      },
+      {
+        "id": "134072",
+        "name": "Sonbhadra"
+      },
+      {
+        "id": "134073",
+        "name": "Sultanpur"
+      },
+      {
+        "id": "134074",
+        "name": "Unnao"
+      },
+      {
+        "id": "134075",
+        "name": "Varanasi"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Uttarakhand",
+    "districts": [
+      {
+        "id": "135001",
+        "name": "Almora"
+      },
+      {
+        "id": "135002",
+        "name": "Bageshwar"
+      },
+      {
+        "id": "135003",
+        "name": "Chamoli"
+      },
+      {
+        "id": "135004",
+        "name": "Champawat"
+      },
+      {
+        "id": "135005",
+        "name": "Dehradun"
+      },
+      {
+        "id": "135006",
+        "name": "Haridwar"
+      },
+      {
+        "id": "135007",
+        "name": "Nainital"
+      },
+      {
+        "id": "135008",
+        "name": "Pauri Garhwal"
+      },
+      {
+        "id": "135009",
+        "name": "Pithoragarh"
+      },
+      {
+        "id": "135010",
+        "name": "Pinagarh"
+      },
+      {
+        "id": "135011",
+        "name": "Rudraprayag"
+      },
+      {
+        "id": "135012",
+        "name": "Tehri Garhwal"
+      },
+      {
+        "id": "135013",
+        "name": "Udham Singh Nagar"
+      },
+      {
+        "id": "135014",
+        "name": "Uttarkashi"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "West Bengal",
+    "districts": [
+      {
+        "id": "136001",
+        "name": "Alipurduar"
+      },
+      {
+        "id": "136002",
+        "name": "Bankura"
+      },
+      {
+        "id": "136003",
+        "name": "Birbhum"
+      },
+      {
+        "id": "136004",
+        "name": "Coch Behar"
+      },
+      {
+        "id": "136005",
+        "name": "Dakshin Dinajpur"
+      },
+      {
+        "id": "136006",
+        "name": "Darjeeling"
+      },
+      {
+        "id": "136007",
+        "name": "Jhargram"
+      },
+      {
+        "id": "136008",
+        "name": "Kalimpong"
+      },
+      {
+        "id": "136009",
+        "name": "Kolkata"
+      },
+      {
+        "id": "136010",
+        "name": "Malda"
+      },
+      {
+        "id": "136011",
+        "name": "Murshidabad"
+      },
+      {
+        "id": "136012",
+        "name": "Nadia"
+      },
+      {
+        "id": "136013",
+        "name": "North 24 Parganas"
+      },
+      {
+        "id": "136014",
+        "name": "Paschim Bardhaman"
+      },
+      {
+        "id": "136015",
+        "name": "Paschim Medinipur"
+      },
+      {
+        "id": "136016",
+        "name": "Purba Bardhaman"
+      },
+      {
+        "id": "136017",
+        "name": "Purba Medinipur"
+      },
+      {
+        "id": "136018",
+        "name": "Purulinya"
+      },
+      {
+        "id": "136019",
+        "name": "South 24 Parganas"
+      },
+      {
+        "id": "136020",
+        "name": "South Dinajpur"
+      },
+      {
+        "id": "136021",
+        "name": "Nadia"
+      },
+      {
+        "id": "136022",
+        "name": "Uttar Dinajpur"
+      }
+    ]
+  }
+]

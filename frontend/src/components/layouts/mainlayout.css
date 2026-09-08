@@ -1,0 +1,79 @@
+/* ============================================
+   MAINLAYOUT CSS - Desktop + Mobile Responsive
+   ============================================ */
+
+.main-layout {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  background: #edf3f9;
+}
+
+.main-wrapper {
+  flex-grow: 1;
+  margin-left: 260px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-width: 0;
+  transition: margin-left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Collapsed desktop sidebar */
+.sidebar-collapsed .main-wrapper {
+  margin-left: 80px;
+}
+
+.main-content {
+  flex-grow: 1;
+  padding: 8px;
+  min-width: 0;
+  max-width: 100%;
+  overflow-x: clip;
+  background:
+    radial-gradient(circle at top left, rgba(255, 255, 255, 0.92), transparent 28%),
+    linear-gradient(180deg, #f5f8fc 0%, #edf3f9 100%);
+}
+
+/* ============================================
+   MOBILE (≤ 768px)
+   ============================================ */
+@media (max-width: 768px) {
+  /* Content takes full width — sidebar is an overlay drawer */
+  .main-wrapper {
+    margin-left: 0 !important;
+  }
+
+  .main-content {
+    padding: 6px;
+  }
+
+  /* Dark translucent overlay behind mobile sidebar */
+  .sidebar-overlay {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.45);
+    z-index: 95;
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    animation: overlayFadeIn 0.3s ease forwards;
+  }
+}
+
+@keyframes overlayFadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* ============================================
+   TABLET (769px – 1024px)
+   ============================================ */
+@media (max-width: 1024px) and (min-width: 769px) {
+  .main-wrapper {
+    margin-left: 80px;
+  }
+
+  .main-content {
+    padding: 8px;
+  }
+}
